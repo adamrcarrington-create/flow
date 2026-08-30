@@ -1,0 +1,22 @@
+{
+  "messages": [
+    {
+      "id": "1787635702787",
+      "timestamp": "2026-08-25T05:28:22.787Z",
+      "userMessage": "KXBTC15M",
+      "agentResponse": "Error: [OpenAI API] The operation was aborted."
+    },
+    {
+      "id": "1787635664529",
+      "timestamp": "2026-08-25T05:27:44.529Z",
+      "userMessage": "1",
+      "agentResponse": null
+    },
+    {
+      "id": "1787635648860",
+      "timestamp": "2026-08-25T05:27:28.860Z",
+      "userMessage": "run prediction agent",
+      "agentResponse": "What do you want the prediction agent to do?\n\n1) **Scan for edges** (default): run a live scan (top 50 by volume) and return best mispricings  \n2) **Scan a theme**: crypto / politics / economics / sports / etc.  \n3) **Check your portfolio**: balances + positions + current edges  \n4) **Research a specific market**: give me a ticker or topic\n\nReply with `1`, `2 crypto`, `3`, or a ticker/topic."
+    }
+  ]
+}

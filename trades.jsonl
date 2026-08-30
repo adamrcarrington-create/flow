@@ -1,0 +1,551 @@
+{"ts": 1787775953.326, "ticker": "KXBTC15M-26AUG261630-30", "dir": "no", "qty": 2.0, "avg_in_yes": 27.0, "exit_yes": 23.0, "held_s": 25.5, "reason": "maker exit filled", "est_pnl": 0.08}
+{"ts": 1787776792.323, "ticker": "KXBTC15M-26AUG261645-45", "dir": "no", "qty": 2.0, "avg_in_yes": 20.0, "exit_yes": 37.0, "held_s": 119.7, "reason": "BTC edge fading \u2014 scratch NO", "est_pnl": -0.3727}
+{"ts": 1787776946.01, "ticker": "KXBTC15M-26AUG261645-45", "dir": "yes", "qty": 1.0, "avg_in_yes": 80.0, "exit_yes": 83.0, "held_s": 13.8, "reason": "maker exit filled", "est_pnl": 0.03}
+{"ts": 1787783643.113, "ticker": "KXBTC15M-26AUG261845-45", "dir": "no", "qty": 2.0, "avg_in_yes": 41.0, "exit_yes": 39.0, "held_s": 21.5, "reason": "first green taker", "est_pnl": 0.0066}
+{"ts": 1787784702.44, "ticker": "KXBTC15M-26AUG261900-00", "dir": "no", "qty": 1.0, "avg_in_yes": 22.0, "exit_yes": 20.0, "held_s": 0.9, "reason": "first green taker", "est_pnl": 0.0088}
+{"ts": 1787784871.261, "ticker": "KXBTC15M-26AUG261900-00", "dir": "no", "qty": 1.0, "avg_in_yes": 20.0, "exit_yes": 17.0, "held_s": 167.3, "reason": "maker exit filled", "est_pnl": 0.03}
+{"ts": 1787788686.401, "ticker": "KXBTC15M-26AUG262000-00", "dir": "yes", "qty": 2.0, "avg_in_yes": 52.0, "exit_yes": 58.0, "held_s": 1.6, "reason": "first green taker", "est_pnl": 0.0858}
+{"ts": 1787788701.603, "ticker": "KXBTC15M-26AUG262000-00", "dir": "yes", "qty": 2.98, "avg_in_yes": 48.0, "exit_yes": 38.0, "held_s": 8.8, "reason": "BTC edge fading \u2014 scratch YES", "est_pnl": -0.3472}
+{"ts": 1787788701.608, "ticker": "KXBTC15M-26AUG262000-00", "dir": "yes", "qty": 2.97, "avg_in_yes": 43.0, "exit_yes": 40.0, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": -0.0891}
+{"ts": 1787789304.108, "ticker": "KXBTC15M-26AUG262015-15", "dir": "no", "qty": 1.0, "avg_in_yes": 28.0, "exit_yes": 45.0, "held_s": 76.7, "reason": "BTC edge fading \u2014 scratch NO", "est_pnl": -0.1874}
+{"ts": 1787791045.198, "ticker": "KXBTC15M-26AUG262045-45", "dir": "no", "qty": 1.0, "avg_in_yes": 29.0, "exit_yes": 26.0, "held_s": 10.1, "reason": "first green taker", "est_pnl": 0.0165}
+{"ts": 1787791225.183, "ticker": "KXBTC15M-26AUG262045-45", "dir": "no", "qty": 1.0, "avg_in_yes": 25.0, "exit_yes": 23.0, "held_s": 174.8, "reason": "first green taker", "est_pnl": 0.0076}
+{"ts": 1787791240.966, "ticker": "KXBTC15M-26AUG262045-45", "dir": "no", "qty": 1.0, "avg_in_yes": 23.0, "exit_yes": 21.0, "held_s": 4.3, "reason": "first green taker", "est_pnl": 0.0083}
+{"ts": 1787791335.575, "ticker": "KXBTC15M-26AUG262045-45", "dir": "no", "qty": 1.0, "avg_in_yes": 21.0, "exit_yes": 18.0, "held_s": 2.6, "reason": "first green taker", "est_pnl": 0.0196}
+{"ts": 1787791404.353, "ticker": "KXBTC15M-26AUG262045-45", "dir": "no", "qty": 1.0, "avg_in_yes": 29.0, "exit_yes": 76.0, "held_s": 13.5, "reason": "BTC edge fading \u2014 scratch NO", "est_pnl": -0.4828}
+{"ts": 1787794623.488, "ticker": "KXBTC15M-26AUG262145-45", "dir": "no", "qty": 1.0, "avg_in_yes": 27.0, "exit_yes": 25.0, "held_s": 5.6, "reason": "first green taker", "est_pnl": 0.0068}
+{"ts": 1787797425.416, "ticker": "KXBTC15M-26AUG262230-30", "dir": "no", "qty": 1.0, "avg_in_yes": 25.0, "exit_yes": 20.0, "held_s": 21.3, "reason": "first green taker", "est_pnl": 0.0388}
+{"ts": 1787802769.292, "ticker": "KXBTC15M-26AUG270000-00", "dir": "no", "qty": 10.0, "avg_in_yes": 21.0, "exit_yes": 13.0, "held_s": 45.3, "reason": "maker exit filled", "est_pnl": 0.8}
+{"ts": 1787803815.851, "ticker": "KXBTC15M-26AUG270015-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 72.0, "exit_yes": 74.0, "held_s": 1.5, "reason": "first green taker", "est_pnl": 0.0653}
+{"ts": 1787805058.149, "ticker": "KXBTC15M-26AUG270045-45", "dir": "no", "qty": 10.0, "avg_in_yes": 31.0, "exit_yes": 26.0, "held_s": 11.5, "reason": "first green taker", "est_pnl": 0.3653}
+{"ts": 1787805213.954, "ticker": "KXBTC15M-26AUG270045-45", "dir": "no", "qty": 8.98, "avg_in_yes": 30.0, "exit_yes": 28.0, "held_s": 105.1, "reason": "first green taker", "est_pnl": 0.0528}
+{"ts": 1787805214.012, "ticker": "KXBTC15M-26AUG270045-45", "dir": "no", "qty": 4.98, "avg_in_yes": 28.0, "exit_yes": 28.0, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": 0.0}
+{"ts": 1787805256.429, "ticker": "KXBTC15M-26AUG270045-45", "dir": "no", "qty": 8.98, "avg_in_yes": 28.0, "exit_yes": 24.0, "held_s": 15.3, "reason": "first green taker", "est_pnl": 0.2445}
+{"ts": 1787805390.259, "ticker": "KXBTC15M-26AUG270045-45", "dir": "no", "qty": 10.0, "avg_in_yes": 27.0, "exit_yes": 23.0, "held_s": 13.6, "reason": "first green taker", "est_pnl": 0.276}
+{"ts": 1787805600.094, "ticker": "KXBTC15M-26AUG270045-45", "dir": "no", "qty": 3.64, "avg_in_yes": 25.0, "exit_yes": 19.0, "held_s": 18.1, "reason": "first green taker", "est_pnl": 0.1791}
+{"ts": 1787806230.271, "ticker": "KXBTC15M-26AUG270100-00", "dir": "no", "qty": 4.98, "avg_in_yes": 22.0, "exit_yes": 17.0, "held_s": 22.2, "reason": "first green taker", "est_pnl": 0.1998}
+{"ts": 1787807071.973, "ticker": "KXBTC15M-26AUG270115-15", "dir": "no", "qty": 10.0, "avg_in_yes": 24.0, "exit_yes": 21.0, "held_s": 6.7, "reason": "first green taker", "est_pnl": 0.1838}
+{"ts": 1787807386.415, "ticker": "KXBTC15M-26AUG270115-15", "dir": "no", "qty": 10.0, "avg_in_yes": 20.0, "exit_yes": 17.0, "held_s": 18.3, "reason": "first green taker", "est_pnl": 0.2012}
+{"ts": 1787807419.664, "ticker": "KXBTC15M-26AUG270115-15", "dir": "no", "qty": 10.0, "avg_in_yes": 22.0, "exit_yes": 20.0, "held_s": 9.1, "reason": "first green taker", "est_pnl": 0.088}
+{"ts": 1787807429.742, "ticker": "KXBTC15M-26AUG270115-15", "dir": "no", "qty": 10.0, "avg_in_yes": 20.0, "exit_yes": 18.0, "held_s": 7.4, "reason": "first green taker", "est_pnl": 0.0966}
+{"ts": 1787809009.27, "ticker": "KXBTC15M-26AUG270145-45", "dir": "no", "qty": 10.0, "avg_in_yes": 31.0, "exit_yes": 46.0, "held_s": 54.8, "reason": "BTC edge fading \u2014 scratch NO", "est_pnl": -1.6739}
+{"ts": 1787810840.752, "ticker": "KXBTC15M-26AUG270215-15", "dir": "no", "qty": 8.96, "avg_in_yes": 23.0, "exit_yes": 15.0, "held_s": 66.3, "reason": "first green taker", "est_pnl": 0.6368}
+{"ts": 1787821756.916, "ticker": "KXBTC15M-26AUG270515-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 67.0, "exit_yes": 56.0, "held_s": 11.6, "reason": "BTC edge fading \u2014 scratch YES", "est_pnl": -1.2725}
+{"ts": 1787827777.307, "ticker": "KXBTC15M-26AUG270700-00", "dir": "no", "qty": 10.0, "avg_in_yes": 28.0, "exit_yes": 38.0, "held_s": 81.1, "reason": "BTC edge fading \u2014 scratch NO", "est_pnl": -1.165}
+{"ts": 1787829573.846, "ticker": "KXBTC15M-26AUG270730-30", "dir": "no", "qty": 10.0, "avg_in_yes": 25.0, "exit_yes": 40.0, "held_s": 45.2, "reason": "BTC edge fading \u2014 scratch NO", "est_pnl": -1.668}
+{"ts": 1787830385.344, "ticker": "KXBTC15M-26AUG270745-45", "dir": "no", "qty": 10.0, "avg_in_yes": 27.0, "exit_yes": 39.0, "held_s": 20.7, "reason": "BTC edge fading \u2014 scratch NO", "est_pnl": -1.3666}
+{"ts": 1787832602.537, "ticker": "KXBTC15M-26AUG270815-15", "dir": "no", "qty": 10.0, "avg_in_yes": 26.0, "exit_yes": 46.0, "held_s": 12.3, "reason": "BTC edge fading \u2014 scratch NO", "est_pnl": -2.1739}
+{"ts": 1787833233.938, "ticker": "KXBTC15M-26AUG270830-30", "dir": "no", "qty": 10.0, "avg_in_yes": 25.0, "exit_yes": 38.0, "held_s": 78.8, "reason": "BTC edge fading \u2014 scratch NO", "est_pnl": -1.465}
+{"ts": 1787834064.489, "ticker": "KXBTC15M-26AUG270845-45", "dir": "no", "qty": 10.0, "avg_in_yes": 26.0, "exit_yes": 14.0, "held_s": 82.7, "reason": "maker exit filled", "est_pnl": 1.2}
+{"ts": 1787837104.122, "ticker": "KXBTC15M-26AUG270930-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 75.0, "exit_yes": 67.0, "held_s": 22.9, "reason": "BTC edge fading \u2014 scratch YES", "est_pnl": -0.9548}
+{"ts": 1787837663.557, "ticker": "KXBTC15M-26AUG270945-45", "dir": "no", "qty": 3.2, "avg_in_yes": 26.0, "exit_yes": 14.0, "held_s": 126.1, "reason": "maker exit filled", "est_pnl": 0.384}
+{"ts": 1787838630.233, "ticker": "KXBTC15M-26AUG271000-00", "dir": "no", "qty": 1.99, "avg_in_yes": 27.0, "exit_yes": 33.0, "held_s": 88.9, "reason": "BTC edge fading \u2014 scratch NO", "est_pnl": -0.1502}
+{"ts": 1787844986.154, "ticker": "KXBTC15M-26AUG271145-45", "dir": "no", "qty": 10.0, "avg_in_yes": 25.0, "exit_yes": 19.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 0.4922}
+{"ts": 1787845886.107, "ticker": "KXBTC15M-26AUG271200-00", "dir": "no", "qty": 10.0, "avg_in_yes": 27.0, "exit_yes": 14.0, "held_s": 51.3, "reason": "maker exit filled", "est_pnl": 1.3}
+{"ts": 1787846795.837, "ticker": "KXBTC15M-26AUG271215-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 75.0, "exit_yes": 60.0, "held_s": 18.9, "reason": "BTC edge fading \u2014 scratch YES", "est_pnl": -1.668}
+{"ts": 1787849539.907, "ticker": "KXBTC15M-26AUG271300-00", "dir": "no", "qty": 10.0, "avg_in_yes": 25.0, "exit_yes": 28.0, "held_s": 70.9, "reason": "BTC edge fading \u2014 scratch NO", "est_pnl": -0.4412}
+{"ts": 1787850284.783, "ticker": "KXBTC15M-26AUG271315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 25.0, "exit_yes": 36.0, "held_s": 155.7, "reason": "BTC edge fading \u2014 scratch NO", "est_pnl": -1.2613}
+{"ts": 1787850963.317, "ticker": "KXBTC15M-26AUG271330-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 65.0, "exit_yes": 52.0, "held_s": 17.9, "reason": "BTC edge fading \u2014 scratch YES", "est_pnl": -1.4748}
+{"ts": 1787850963.382, "ticker": "KXBTC15M-26AUG271330-30", "dir": "yes", "qty": 10.0, "avg_in_yes": null, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787850990.829, "ticker": "KXBTC15M-26AUG271330-30", "dir": "no", "qty": 10.0, "avg_in_yes": 45.0, "exit_yes": 62.0, "held_s": 7.8, "reason": "BTC edge fading \u2014 scratch NO", "est_pnl": -1.865}
+{"ts": 1787851951.43, "ticker": "KXBTC15M-26AUG271345-45", "dir": "yes", "qty": 10.0, "avg_in_yes": 58.0, "exit_yes": 46.0, "held_s": 94.9, "reason": "BTC edge fading \u2014 scratch YES", "est_pnl": -1.3739}
+{"ts": 1787852037.706, "ticker": "KXBTC15M-26AUG271345-45", "dir": "no", "qty": 10.0, "avg_in_yes": 43.0, "exit_yes": 47.0, "held_s": 3.3, "reason": "BTC edge fading \u2014 scratch NO", "est_pnl": -0.5744}
+{"ts": 1787861000.343, "ticker": "KXBTC15M-26AUG271615-15", "dir": "no", "qty": 10.0, "avg_in_yes": 38.0, "exit_yes": 53.0, "held_s": 134.3, "reason": "BTC edge fading \u2014 rotate off NO", "est_pnl": -1.6744}
+{"ts": 1787861140.488, "ticker": "KXBTC15M-26AUG271615-15", "dir": "no", "qty": 10.0, "avg_in_yes": 38.0, "exit_yes": 64.0, "held_s": 72.1, "reason": "BTC edge fading \u2014 rotate off NO", "est_pnl": -2.7613}
+{"ts": 1787861375.45, "ticker": "KXBTC15M-26AUG271615-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 78.0, "exit_yes": 88.0, "held_s": 202.1, "reason": "maker exit filled", "est_pnl": 1.0}
+{"ts": 1787861400.108, "ticker": "KXBTC15M-26AUG271615-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 89.0, "exit_yes": 90.3, "held_s": 17.7, "reason": "first green taker", "est_pnl": 0.0686}
+{"ts": 1787861424.729, "ticker": "KXBTC15M-26AUG271615-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 88.0, "exit_yes": 89.0, "held_s": 7.4, "reason": "first green taker", "est_pnl": 0.0314}
+{"ts": 1787861515.505, "ticker": "KXBTC15M-26AUG271615-15", "dir": "yes", "qty": 9.0, "avg_in_yes": 91.4, "exit_yes": 92.4, "held_s": 84.6, "reason": "first green taker", "est_pnl": 0.0457}
+{"ts": 1787861562.486, "ticker": "KXBTC15M-26AUG271615-15", "dir": "yes", "qty": 1.0, "avg_in_yes": 92.4, "exit_yes": 92.9, "held_s": 46.5, "reason": "first green taker", "est_pnl": 0.0003}
+{"ts": 1787861621.026, "ticker": "KXBTC15M-26AUG271615-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 92.1, "exit_yes": 93.2, "held_s": 3.0, "reason": "first green taker", "est_pnl": 0.0656}
+{"ts": 1787861640.035, "ticker": "KXBTC15M-26AUG271615-15", "dir": "yes", "qty": 8.9, "avg_in_yes": 93.2, "exit_yes": 94.5, "held_s": 17.9, "reason": "first green taker", "est_pnl": 0.0833}
+{"ts": 1787862098.14, "ticker": "KXBTC15M-26AUG271630-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 76.0, "exit_yes": 87.0, "held_s": 82.7, "reason": "maker exit filled", "est_pnl": 1.1}
+{"ts": 1787862129.979, "ticker": "KXBTC15M-26AUG271630-30", "dir": "yes", "qty": 2.0, "avg_in_yes": 87.0, "exit_yes": 93.9, "held_s": 28.2, "reason": "maker exit filled", "est_pnl": 0.138}
+{"ts": 1787862362.48, "ticker": "KXBTC15M-26AUG271630-30", "dir": "yes", "qty": 9.0, "avg_in_yes": 91.6, "exit_yes": 92.5, "held_s": 224.7, "reason": "first green taker", "est_pnl": 0.0372}
+{"ts": 1787862370.29, "ticker": "KXBTC15M-26AUG271630-30", "dir": "yes", "qty": 1.78, "avg_in_yes": 94.0, "exit_yes": 94.4, "held_s": 1.5, "reason": "first green taker", "est_pnl": 0.0005}
+{"ts": 1787862435.036, "ticker": "KXBTC15M-26AUG271630-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 90.7, "exit_yes": 91.9, "held_s": 58.4, "reason": "first green taker", "est_pnl": 0.0678}
+{"ts": 1787863991.505, "ticker": "KXBTC15M-26AUG271700-00", "dir": "no", "qty": 10.0, "avg_in_yes": 26.0, "exit_yes": 23.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 0.176}
+{"ts": 1787864293.334, "ticker": "KXBTC15M-26AUG271700-00", "dir": "yes", "qty": 2.14, "avg_in_yes": 88.0, "exit_yes": 89.0, "held_s": 0.3, "reason": "first green taker", "est_pnl": 0.0067}
+{"ts": 1787864298.155, "ticker": "KXBTC15M-26AUG271700-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 90.7, "exit_yes": 91.3, "held_s": 3.3, "reason": "first green taker", "est_pnl": 0.0043}
+{"ts": 1787864298.209, "ticker": "KXBTC15M-26AUG271700-00", "dir": "yes", "qty": 1.98, "avg_in_yes": 91.6, "exit_yes": 91.6, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": 0.0}
+{"ts": 1787864299.62, "ticker": "KXBTC15M-26AUG271700-00", "dir": "yes", "qty": 2.0, "avg_in_yes": 92.6, "exit_yes": 93.2, "held_s": 0.5, "reason": "first green taker", "est_pnl": 0.0031}
+{"ts": 1787864627.45, "ticker": "KXBTC15M-26AUG271715-15", "dir": "no", "qty": 10.0, "avg_in_yes": 37.0, "exit_yes": 48.0, "held_s": 128.8, "reason": "BTC edge fading \u2014 rotate off NO", "est_pnl": -1.2748}
+{"ts": 1787864789.403, "ticker": "KXBTC15M-26AUG271715-15", "dir": "no", "qty": 10.0, "avg_in_yes": 28.0, "exit_yes": 54.0, "held_s": 35.3, "reason": "BTC edge fading \u2014 rotate off NO", "est_pnl": -2.7739}
+{"ts": 1787871300.112, "ticker": "KXBTC15M-26AUG271900-00", "dir": "no", "qty": 10.0, "avg_in_yes": 36.0, "exit_yes": 31.0, "held_s": 233.2, "reason": "first green taker", "est_pnl": 0.3502}
+{"ts": 1787871300.175, "ticker": "KXBTC15M-26AUG271900-00", "dir": "no", "qty": 9.98, "avg_in_yes": 31.0, "exit_yes": 31.0, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": 0.0}
+{"ts": 1787871476.001, "ticker": "KXBTC15M-26AUG271900-00", "dir": "no", "qty": 8.41, "avg_in_yes": 34.0, "exit_yes": 32.0, "held_s": 84.5, "reason": "first green taker", "est_pnl": 0.04}
+{"ts": 1787872117.423, "ticker": "KXBTC15M-26AUG271915-15", "dir": "no", "qty": 10.0, "avg_in_yes": 38.0, "exit_yes": 36.0, "held_s": 247.7, "reason": "first green taker", "est_pnl": 0.0387}
+{"ts": 1787872191.927, "ticker": "KXBTC15M-26AUG271915-15", "dir": "no", "qty": 3.0, "avg_in_yes": 33.0, "exit_yes": 18.0, "held_s": 74.2, "reason": "maker exit filled", "est_pnl": 0.45}
+{"ts": 1787872200.178, "ticker": "KXBTC15M-26AUG271915-15", "dir": "no", "qty": 8.0, "avg_in_yes": 20.0, "exit_yes": 15.0, "held_s": 6.0, "reason": "first green taker", "est_pnl": 0.3286}
+{"ts": 1787872242.078, "ticker": "KXBTC15M-26AUG271915-15", "dir": "no", "qty": 10.0, "avg_in_yes": 22.0, "exit_yes": 20.0, "held_s": 11.0, "reason": "first green taker", "est_pnl": 0.088}
+{"ts": 1787872255.448, "ticker": "KXBTC15M-26AUG271915-15", "dir": "no", "qty": 2.0, "avg_in_yes": 20.0, "exit_yes": 18.0, "held_s": 10.7, "reason": "first green taker", "est_pnl": 0.0193}
+{"ts": 1787872259.952, "ticker": "KXBTC15M-26AUG271915-15", "dir": "no", "qty": 9.0, "avg_in_yes": 18.0, "exit_yes": 17.0, "held_s": 4.0, "reason": "first green taker", "est_pnl": 0.0011}
+{"ts": 1787872317.402, "ticker": "KXBTC15M-26AUG271915-15", "dir": "no", "qty": 2.78, "avg_in_yes": 15.0, "exit_yes": 14.0, "held_s": 51.6, "reason": "first green taker", "est_pnl": 0.0043}
+{"ts": 1787872342.579, "ticker": "KXBTC15M-26AUG271915-15", "dir": "no", "qty": 8.0, "avg_in_yes": 19.0, "exit_yes": 17.0, "held_s": 20.3, "reason": "first green taker", "est_pnl": 0.0809}
+{"ts": 1787872348.28, "ticker": "KXBTC15M-26AUG271915-15", "dir": "no", "qty": 3.0, "avg_in_yes": 16.0, "exit_yes": 15.0, "held_s": 4.1, "reason": "first green taker", "est_pnl": 0.0032}
+{"ts": 1787872351.789, "ticker": "KXBTC15M-26AUG271915-15", "dir": "no", "qty": 8.0, "avg_in_yes": 15.0, "exit_yes": 14.0, "held_s": 3.0, "reason": "first green taker", "est_pnl": 0.0125}
+{"ts": 1787872697.393, "ticker": "KXBTC15M-26AUG271930-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 73.0, "exit_yes": 86.0, "held_s": 16.9, "reason": "maker exit filled", "est_pnl": 1.3}
+{"ts": 1787872938.059, "ticker": "KXBTC15M-26AUG271930-30", "dir": "yes", "qty": 2.0, "avg_in_yes": 82.0, "exit_yes": 83.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 0.0002}
+{"ts": 1787873022.564, "ticker": "KXBTC15M-26AUG271930-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 83.0, "exit_yes": 94.5, "held_s": 83.1, "reason": "maker exit filled", "est_pnl": 1.15}
+{"ts": 1787873100.143, "ticker": "KXBTC15M-26AUG271930-30", "dir": "yes", "qty": 1.98, "avg_in_yes": 94.0, "exit_yes": 95.6, "held_s": 74.2, "reason": "first green taker", "est_pnl": 0.0258}
+{"ts": 1787873142.494, "ticker": "KXBTC15M-26AUG271930-30", "dir": "yes", "qty": 9.98, "avg_in_yes": 93.9, "exit_yes": 94.5, "held_s": 1.2, "reason": "first green taker", "est_pnl": 0.0235}
+{"ts": 1787873171.016, "ticker": "KXBTC15M-26AUG271930-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 94.0, "exit_yes": 94.4, "held_s": 18.0, "reason": "first green taker", "est_pnl": 0.0029}
+{"ts": 1787878450.513, "ticker": "KXBTC15M-26AUG272100-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 74.0, "exit_yes": 86.0, "held_s": 15.6, "reason": "maker exit filled", "est_pnl": 1.0653}
+{"ts": 1787878450.731, "ticker": "KXBTC15M-26AUG272100-00", "dir": "no", "qty": 10.0, "avg_in_yes": 86.0, "exit_yes": 90.0, "held_s": 0.1, "reason": "BTC crossed \u2014 rotate off NO", "est_pnl": -0.463}
+{"ts": 1787878521.996, "ticker": "KXBTC15M-26AUG272100-00", "dir": "yes", "qty": 5.0, "avg_in_yes": 84.0, "exit_yes": 86.0, "held_s": 71.0, "reason": "first green taker", "est_pnl": 0.0578}
+{"ts": 1787878525.002, "ticker": "KXBTC15M-26AUG272100-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 87.0, "exit_yes": 90.9, "held_s": 1.7, "reason": "first green taker", "est_pnl": 0.332}
+{"ts": 1787878528.665, "ticker": "KXBTC15M-26AUG272100-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 91.8, "exit_yes": 92.4, "held_s": 3.0, "reason": "first green taker", "est_pnl": 0.0108}
+{"ts": 1787878528.793, "ticker": "KXBTC15M-26AUG272100-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 92.8, "exit_yes": 92.4, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": -0.0868}
+{"ts": 1787878538.19, "ticker": "KXBTC15M-26AUG272100-00", "dir": "yes", "qty": 9.98, "avg_in_yes": 92.5, "exit_yes": 93.4, "held_s": 9.3, "reason": "first green taker", "est_pnl": 0.0467}
+{"ts": 1787878580.717, "ticker": "KXBTC15M-26AUG272100-00", "dir": "yes", "qty": 4.02, "avg_in_yes": 93.4, "exit_yes": 95.4, "held_s": 41.3, "reason": "first green taker", "est_pnl": 0.068}
+{"ts": 1787879001.717, "ticker": "KXBTC15M-26AUG272115-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 63.0, "exit_yes": 80.0, "held_s": 148.2, "reason": "maker exit filled", "est_pnl": 1.5368}
+{"ts": 1787879001.791, "ticker": "KXBTC15M-26AUG272115-15", "dir": "yes", "qty": 8.0, "avg_in_yes": 80.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787879242.001, "ticker": "KXBTC15M-26AUG272115-15", "dir": "yes", "qty": 8.0, "avg_in_yes": 80.0, "exit_yes": 83.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 0.1609}
+{"ts": 1787879345.162, "ticker": "KXBTC15M-26AUG272115-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 84.0, "exit_yes": 92.0, "held_s": 100.4, "reason": "maker exit filled", "est_pnl": 0.7059}
+{"ts": 1787879770.666, "ticker": "KXBTC15M-26AUG272130-30", "dir": "no", "qty": 10.0, "avg_in_yes": 33.0, "exit_yes": 56.0, "held_s": 38.9, "reason": "BTC edge fading \u2014 rotate off NO", "est_pnl": -2.6273}
+{"ts": 1787879939.515, "ticker": "KXBTC15M-26AUG272130-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 79.0, "exit_yes": 75.0, "held_s": 1.1, "reason": "Bitcoin feed stale", "est_pnl": -0.6475}
+{"ts": 1787879942.596, "ticker": "KXBTC15M-26AUG272130-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 79.0, "exit_yes": 74.0, "held_s": 2.1, "reason": "Bitcoin feed stale", "est_pnl": -0.7509}
+{"ts": 1787880014.78, "ticker": "KXBTC15M-26AUG272130-30", "dir": "yes", "qty": 6.0, "avg_in_yes": 80.0, "exit_yes": 89.0, "held_s": 69.3, "reason": "maker exit filled", "est_pnl": 0.4728}
+{"ts": 1787880136.553, "ticker": "KXBTC15M-26AUG272130-30", "dir": "yes", "qty": 9.0, "avg_in_yes": 89.0, "exit_yes": 94.0, "held_s": 121.7, "reason": "maker exit filled", "est_pnl": 0.3883}
+{"ts": 1787880300.12, "ticker": "KXBTC15M-26AUG272130-30", "dir": "yes", "qty": 6.0, "avg_in_yes": 91.6, "exit_yes": 97.9, "held_s": 162.8, "reason": "first green taker", "est_pnl": 0.3693}
+{"ts": 1787880300.177, "ticker": "KXBTC15M-26AUG272130-30", "dir": "yes", "qty": 3.98, "avg_in_yes": 97.9, "exit_yes": 97.9, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": 0.0}
+{"ts": 1787880727.296, "ticker": "KXBTC15M-26AUG272145-45", "dir": "no", "qty": 10.0, "avg_in_yes": 37.0, "exit_yes": 59.0, "held_s": 55.5, "reason": "BTC edge fading \u2014 rotate off NO", "est_pnl": -2.5326}
+{"ts": 1787880796.622, "ticker": "KXBTC15M-26AUG272145-45", "dir": "yes", "qty": 10.0, "avg_in_yes": 66.0, "exit_yes": 82.0, "held_s": 26.6, "reason": "maker exit filled", "est_pnl": 1.4429}
+{"ts": 1787880799.909, "ticker": "KXBTC15M-26AUG272145-45", "dir": "yes", "qty": 8.0, "avg_in_yes": 83.0, "exit_yes": 67.0, "held_s": 2.3, "reason": "Bitcoin feed stale", "est_pnl": -1.4039}
+{"ts": 1787880878.468, "ticker": "KXBTC15M-26AUG272145-45", "dir": "yes", "qty": 5.02, "avg_in_yes": 71.0, "exit_yes": 50.0, "held_s": 76.6, "reason": "BTC edge fading \u2014 rotate off YES", "est_pnl": -1.2145}
+{"ts": 1787881077.348, "ticker": "KXBTC15M-26AUG272145-45", "dir": "no", "qty": 10.0, "avg_in_yes": 19.0, "exit_yes": 10.0, "held_s": 5.5, "reason": "maker exit filled", "est_pnl": 0.9}
+{"ts": 1787881116.788, "ticker": "KXBTC15M-26AUG272145-45", "dir": "no", "qty": 4.0, "avg_in_yes": 12.0, "exit_yes": 6.0, "held_s": 39.0, "reason": "maker exit filled", "est_pnl": 0.24}
+{"ts": 1787881245.676, "ticker": "KXBTC15M-26AUG272145-45", "dir": "no", "qty": 10.0, "avg_in_yes": 6.1, "exit_yes": 4.8, "held_s": 105.7, "reason": "first green taker", "est_pnl": 0.0579}
+{"ts": 1787881333.783, "ticker": "KXBTC15M-26AUG272145-45", "dir": "no", "qty": 10.0, "avg_in_yes": 6.1, "exit_yes": 4.7, "held_s": 6.2, "reason": "first green taker", "est_pnl": 0.0685}
+{"ts": 1787881333.845, "ticker": "KXBTC15M-26AUG272145-45", "dir": "no", "qty": 9.98, "avg_in_yes": 4.1, "exit_yes": 4.1, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": 0.0}
+{"ts": 1787881726.598, "ticker": "KXBTC15M-26AUG272200-00", "dir": "no", "qty": 0.19, "avg_in_yes": 36.0, "exit_yes": 19.0, "held_s": 103.9, "reason": "maker exit filled", "est_pnl": -0.129}
+{"ts": 1787881898.605, "ticker": "KXBTC15M-26AUG272200-00", "dir": "no", "qty": 8.0, "avg_in_yes": 19.0, "exit_yes": 10.0, "held_s": 169.8, "reason": "maker exit filled", "est_pnl": 0.72}
+{"ts": 1787882100.145, "ticker": "KXBTC15M-26AUG272200-00", "dir": "no", "qty": 4.57, "avg_in_yes": 8.0, "exit_yes": 3.7, "held_s": 167.7, "reason": "first green taker", "est_pnl": 0.1851}
+{"ts": 1787882622.463, "ticker": "KXBTC15M-26AUG272215-15", "dir": "no", "qty": 10.0, "avg_in_yes": 35.0, "exit_yes": 19.0, "held_s": 177.7, "reason": "maker exit filled", "est_pnl": 1.4407}
+{"ts": 1787882933.476, "ticker": "KXBTC15M-26AUG272215-15", "dir": "no", "qty": 10.0, "avg_in_yes": 20.0, "exit_yes": 17.0, "held_s": 310.8, "reason": "first green taker", "est_pnl": 0.0892}
+{"ts": 1787883029.655, "ticker": "KXBTC15M-26AUG272215-15", "dir": "no", "qty": 10.0, "avg_in_yes": 16.0, "exit_yes": 37.0, "held_s": 96.1, "reason": "BTC edge fading \u2014 rotate off NO", "est_pnl": -2.3573}
+{"ts": 1787883044.24, "ticker": "KXBTC15M-26AUG272215-15", "dir": "no", "qty": 10.0, "avg_in_yes": 30.0, "exit_yes": 27.0, "held_s": 10.7, "reason": "first green taker", "est_pnl": 0.015}
+{"ts": 1787883045.297, "ticker": "KXBTC15M-26AUG272215-15", "dir": "no", "qty": 10.0, "avg_in_yes": 26.0, "exit_yes": 23.0, "held_s": 1.0, "reason": "first green taker", "est_pnl": 0.0413}
+{"ts": 1787883048.225, "ticker": "KXBTC15M-26AUG272215-15", "dir": "no", "qty": 10.0, "avg_in_yes": 22.0, "exit_yes": 19.0, "held_s": 2.9, "reason": "first green taker", "est_pnl": 0.072}
+{"ts": 1787883066.099, "ticker": "KXBTC15M-26AUG272215-15", "dir": "no", "qty": 10.0, "avg_in_yes": 18.0, "exit_yes": 16.0, "held_s": 17.0, "reason": "first green taker", "est_pnl": 0.0025}
+{"ts": 1787883069.242, "ticker": "KXBTC15M-26AUG272215-15", "dir": "no", "qty": 8.0, "avg_in_yes": 15.0, "exit_yes": 13.0, "held_s": 3.1, "reason": "first green taker", "est_pnl": 0.0252}
+{"ts": 1787883078.154, "ticker": "KXBTC15M-26AUG272215-15", "dir": "no", "qty": 10.0, "avg_in_yes": 12.0, "exit_yes": 9.5, "held_s": 5.7, "reason": "first green taker", "est_pnl": 0.1158}
+{"ts": 1787883086.719, "ticker": "KXBTC15M-26AUG272215-15", "dir": "no", "qty": 10.0, "avg_in_yes": 8.2, "exit_yes": 7.3, "held_s": 7.0, "reason": "first green taker", "est_pnl": 0.0426}
+{"ts": 1787883090.285, "ticker": "KXBTC15M-26AUG272215-15", "dir": "no", "qty": 6.96, "avg_in_yes": 6.0, "exit_yes": 5.5, "held_s": 0.2, "reason": "first green taker", "est_pnl": 0.0094}
+{"ts": 1787883090.375, "ticker": "KXBTC15M-26AUG272215-15", "dir": "no", "qty": 6.98, "avg_in_yes": null, "exit_yes": null, "held_s": 0.1, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787883092.963, "ticker": "KXBTC15M-26AUG272215-15", "dir": "no", "qty": 6.94, "avg_in_yes": 6.3, "exit_yes": 5.6, "held_s": 1.6, "reason": "first green taker", "est_pnl": 0.0229}
+{"ts": 1787883505.637, "ticker": "KXBTC15M-26AUG272230-30", "dir": "no", "qty": 10.0, "avg_in_yes": 33.0, "exit_yes": 18.0, "held_s": 155.4, "reason": "maker exit filled", "est_pnl": 1.3452}
+{"ts": 1787883731.374, "ticker": "KXBTC15M-26AUG272230-30", "dir": "no", "qty": 10.0, "avg_in_yes": 18.0, "exit_yes": 8.4, "held_s": 225.7, "reason": "maker exit filled", "est_pnl": 0.8566}
+{"ts": 1787883791.83, "ticker": "KXBTC15M-26AUG272230-30", "dir": "no", "qty": 10.0, "avg_in_yes": 13.0, "exit_yes": 6.8, "held_s": 56.2, "reason": "maker exit filled", "est_pnl": 0.5408}
+{"ts": 1787883912.063, "ticker": "KXBTC15M-26AUG272230-30", "dir": "no", "qty": 2.28, "avg_in_yes": 8.4, "exit_yes": 7.4, "held_s": 0.8, "reason": "first green taker", "est_pnl": 0.0118}
+{"ts": 1787883912.337, "ticker": "KXBTC15M-26AUG272230-30", "dir": "no", "qty": 0.01, "avg_in_yes": 6.2, "exit_yes": null, "held_s": 0.1, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787883927.608, "ticker": "KXBTC15M-26AUG272230-30", "dir": "no", "qty": 1.98, "avg_in_yes": 6.2, "exit_yes": 5.1, "held_s": 15.2, "reason": "first green taker", "est_pnl": 0.015}
+{"ts": 1787883927.666, "ticker": "KXBTC15M-26AUG272230-30", "dir": "no", "qty": 2.0, "avg_in_yes": 6.2, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787883964.21, "ticker": "KXBTC15M-26AUG272230-30", "dir": "no", "qty": 0.02, "avg_in_yes": 6.4, "exit_yes": 5.4, "held_s": 24.1, "reason": "first green taker", "est_pnl": 0.0001}
+{"ts": 1787884283.599, "ticker": "KXBTC15M-26AUG272245-45", "dir": "no", "qty": 10.0, "avg_in_yes": 34.0, "exit_yes": 59.0, "held_s": 23.7, "reason": "BTC edge fading \u2014 rotate off NO", "est_pnl": -2.8265}
+{"ts": 1787884344.104, "ticker": "KXBTC15M-26AUG272245-45", "dir": "yes", "qty": 10.0, "avg_in_yes": 64.0, "exit_yes": 50.0, "held_s": 49.6, "reason": "BTC edge fading \u2014 rotate off YES", "est_pnl": -1.7363}
+{"ts": 1787884541.642, "ticker": "KXBTC15M-26AUG272245-45", "dir": "yes", "qty": 10.0, "avg_in_yes": 68.0, "exit_yes": 83.0, "held_s": 108.0, "reason": "maker exit filled", "est_pnl": 1.3476}
+{"ts": 1787884664.214, "ticker": "KXBTC15M-26AUG272245-45", "dir": "yes", "qty": 5.62, "avg_in_yes": 83.0, "exit_yes": 93.2, "held_s": 122.5, "reason": "maker exit filled", "est_pnl": 0.4843}
+{"ts": 1787884748.007, "ticker": "KXBTC15M-26AUG272245-45", "dir": "yes", "qty": 0.02, "avg_in_yes": 91.9, "exit_yes": 96.6, "held_s": 81.9, "reason": "maker exit filled", "est_pnl": 0.0009}
+{"ts": 1787884871.043, "ticker": "KXBTC15M-26AUG272245-45", "dir": "yes", "qty": 10.0, "avg_in_yes": 94.0, "exit_yes": 95.2, "held_s": 104.7, "reason": "first green taker", "est_pnl": 0.0485}
+{"ts": 1787884989.861, "ticker": "KXBTC15M-26AUG272245-45", "dir": "yes", "qty": 10.0, "avg_in_yes": 90.0, "exit_yes": 91.3, "held_s": 16.9, "reason": "first green taker", "est_pnl": 0.0113}
+{"ts": 1787885250.243, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 10.0, "avg_in_yes": 35.0, "exit_yes": 19.0, "held_s": 74.9, "reason": "maker exit filled", "est_pnl": 1.4407}
+{"ts": 1787885289.888, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 10.0, "avg_in_yes": 19.0, "exit_yes": 42.0, "held_s": 39.6, "reason": "BTC edge fading \u2014 rotate off NO", "est_pnl": -2.5784}
+{"ts": 1787885445.449, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 10.0, "avg_in_yes": 36.0, "exit_yes": 19.0, "held_s": 154.6, "reason": "maker exit filled", "est_pnl": 1.5387}
+{"ts": 1787885514.077, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 10.0, "avg_in_yes": 19.0, "exit_yes": 10.0, "held_s": 67.4, "reason": "maker exit filled", "est_pnl": 0.9}
+{"ts": 1787885736.858, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 10.0, "avg_in_yes": 14.0, "exit_yes": 12.0, "held_s": 222.3, "reason": "first green taker", "est_pnl": 0.0417}
+{"ts": 1787885746.04, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 10.0, "avg_in_yes": 15.0, "exit_yes": 14.0, "held_s": 6.7, "reason": "first green taker", "est_pnl": 0.0157}
+{"ts": 1787885750.384, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 10.0, "avg_in_yes": 13.0, "exit_yes": 9.1, "held_s": 4.3, "reason": "first green taker", "est_pnl": 0.2528}
+{"ts": 1787885759.6, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 0.01, "avg_in_yes": 8.3, "exit_yes": 7.3, "held_s": 4.2, "reason": "first green taker", "est_pnl": 0.0}
+{"ts": 1787885760.91, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 10.0, "avg_in_yes": 6.0, "exit_yes": 5.1, "held_s": 1.3, "reason": "first green taker", "est_pnl": 0.0166}
+{"ts": 1787885767.576, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 10.0, "avg_in_yes": 6.0, "exit_yes": 5.6, "held_s": 4.8, "reason": "first green taker", "est_pnl": 0.0029}
+{"ts": 1787885786.43, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 9.96, "avg_in_yes": 7.0, "exit_yes": 6.4, "held_s": 16.1, "reason": "first green taker", "est_pnl": 0.018}
+{"ts": 1787885837.547, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 10.0, "avg_in_yes": 6.8, "exit_yes": 5.1, "held_s": 49.1, "reason": "first green taker", "est_pnl": 0.0917}
+{"ts": 1787885837.624, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 2.0, "avg_in_yes": null, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787885848.087, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 2.0, "avg_in_yes": 6.1, "exit_yes": 4.1, "held_s": 9.3, "reason": "first green taker", "est_pnl": -0.0057}
+{"ts": 1787885848.193, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 2.0, "avg_in_yes": null, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787885855.99, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 10.0, "avg_in_yes": 8.2, "exit_yes": 7.0, "held_s": 1.1, "reason": "first green taker", "est_pnl": 0.0217}
+{"ts": 1787885856.075, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 10.0, "avg_in_yes": 6.9, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787885880.531, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 20.0, "avg_in_yes": 6.9, "exit_yes": 6.1, "held_s": 24.3, "reason": "first green taker", "est_pnl": 0.0348}
+{"ts": 1787885880.588, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 9.96, "avg_in_yes": 5.4, "exit_yes": 5.9, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": -0.0498}
+{"ts": 1787885884.205, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 1.0, "avg_in_yes": 7.6, "exit_yes": 7.0, "held_s": 1.4, "reason": "first green taker", "est_pnl": 0.0014}
+{"ts": 1787885885.924, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 1.0, "avg_in_yes": 6.9, "exit_yes": 6.0, "held_s": 1.7, "reason": "first green taker", "est_pnl": 0.0005}
+{"ts": 1787885886.552, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 1.0, "avg_in_yes": 6.0, "exit_yes": 4.1, "held_s": 0.3, "reason": "first green taker", "est_pnl": 0.0162}
+{"ts": 1787885892.027, "ticker": "KXBTC15M-26AUG272300-00", "dir": "no", "qty": 1.0, "avg_in_yes": 6.2, "exit_yes": 5.5, "held_s": 3.9, "reason": "first green taker", "est_pnl": -0.0008}
+{"ts": 1787886313.552, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 37.0, "exit_yes": 62.0, "held_s": 138.7, "reason": "BTC crossed \u2014 rotate off NO", "est_pnl": -2.8282}
+{"ts": 1787886545.253, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 28.0, "exit_yes": 15.0, "held_s": 145.7, "reason": "maker exit filled", "est_pnl": 1.1588}
+{"ts": 1787886545.31, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": null, "exit_yes": 15.0, "held_s": 27.4, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787886600.114, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 14.0, "exit_yes": 9.4, "held_s": 54.8, "reason": "first green taker", "est_pnl": 0.4003}
+{"ts": 1787886600.116, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 14.0, "exit_yes": 9.4, "held_s": 54.8, "reason": "first green taker", "est_pnl": 0.316}
+{"ts": 1787886601.566, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 9.3, "exit_yes": 8.7, "held_s": 1.3, "reason": "first green taker", "est_pnl": 0.0043}
+{"ts": 1787886601.574, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 9.3, "exit_yes": 8.7, "held_s": 1.3, "reason": "maker exit filled", "est_pnl": 0.0009}
+{"ts": 1787886602.672, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 8.0, "exit_yes": 7.5, "held_s": 0.2, "reason": "first green taker", "est_pnl": 0.0014}
+{"ts": 1787886602.675, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 8.0, "exit_yes": 7.5, "held_s": 0.3, "reason": "maker exit filled", "est_pnl": -0.0016}
+{"ts": 1787886604.515, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 3.73, "avg_in_yes": 8.1, "exit_yes": 7.4, "held_s": 1.3, "reason": "first green taker", "est_pnl": 0.0082}
+{"ts": 1787886604.52, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 3.73, "avg_in_yes": 8.1, "exit_yes": 7.4, "held_s": 1.4, "reason": "first green taker", "est_pnl": 0.0082}
+{"ts": 1787886611.238, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 7.3, "exit_yes": 6.7, "held_s": 6.5, "reason": "first green taker", "est_pnl": 0.0162}
+{"ts": 1787886611.243, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 7.3, "exit_yes": 6.7, "held_s": 6.7, "reason": "maker exit filled", "est_pnl": 0.0126}
+{"ts": 1787886616.369, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 6.7, "exit_yes": 6.2, "held_s": 3.7, "reason": "first green taker", "est_pnl": 0.0092}
+{"ts": 1787886616.375, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 6.7, "exit_yes": 6.1, "held_s": 3.6, "reason": "maker exit filled", "est_pnl": 0.06}
+{"ts": 1787886630.416, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 2.0, "avg_in_yes": 8.9, "exit_yes": 7.0, "held_s": 1.3, "reason": "first green taker", "est_pnl": 0.0288}
+{"ts": 1787886630.425, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 2.0, "avg_in_yes": 8.9, "exit_yes": 7.0, "held_s": 1.4, "reason": "first green taker", "est_pnl": -0.028}
+{"ts": 1787886636.467, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 6.4, "exit_yes": 6.0, "held_s": 3.2, "reason": "first green taker", "est_pnl": 0.0005}
+{"ts": 1787886636.474, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 6.4, "exit_yes": 5.6, "held_s": 3.2, "reason": "first green taker", "est_pnl": 0.0429}
+{"ts": 1787886745.07, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 10.0, "exit_yes": 59.0, "held_s": 32.6, "reason": "BTC edge fading \u2014 rotate off NO", "est_pnl": -5.0694}
+{"ts": 1787886745.077, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 9.5, "exit_yes": 55.0, "held_s": 32.7, "reason": "BTC edge fading \u2014 rotate off NO", "est_pnl": -4.7835}
+{"ts": 1787886745.165, "ticker": "KXBTC15M-26AUG272315-15", "dir": "no", "qty": 10.0, "avg_in_yes": null, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787887682.472, "ticker": "KXBTC15M-26AUG272330-30", "dir": "yes", "qty": 3.31, "avg_in_yes": 95.1, "exit_yes": 95.5, "held_s": 0.2, "reason": "first green taker", "est_pnl": 0.0032}
+{"ts": 1787887682.628, "ticker": "KXBTC15M-26AUG272330-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 95.6, "exit_yes": null, "held_s": 0.1, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787887682.689, "ticker": "KXBTC15M-26AUG272330-30", "dir": "yes", "qty": 10.0, "avg_in_yes": null, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787887699.374, "ticker": "KXBTC15M-26AUG272330-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 95.6, "exit_yes": 84.0, "held_s": 16.7, "reason": "Bitcoin feed stale", "est_pnl": -1.2541}
+{"ts": 1787887753.214, "ticker": "KXBTC15M-26AUG272330-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 93.8, "exit_yes": 97.0, "held_s": 1.5, "reason": "maker exit filled", "est_pnl": 0.32}
+{"ts": 1787887937.826, "ticker": "KXBTC15M-26AUG272345-45", "dir": "yes", "qty": 10.0, "avg_in_yes": 65.0, "exit_yes": 47.0, "held_s": 82.9, "reason": "BTC edge fading \u2014 rotate off YES", "est_pnl": -2.1337}
+{"ts": 1787889951.892, "ticker": "KXBTC15M-26AUG280015-15", "dir": "no", "qty": 10.0, "avg_in_yes": 34.0, "exit_yes": 44.0, "held_s": 54.8, "reason": "BTC edge fading \u2014 rotate off NO", "est_pnl": -1.3296}
+{"ts": 1787890043.04, "ticker": "KXBTC15M-26AUG280015-15", "dir": "no", "qty": 5.62, "avg_in_yes": 28.0, "exit_yes": 15.0, "held_s": 85.2, "reason": "maker exit filled", "est_pnl": 0.5894}
+{"ts": 1787890139.479, "ticker": "KXBTC15M-26AUG280015-15", "dir": "no", "qty": 5.0, "avg_in_yes": 15.0, "exit_yes": 8.0, "held_s": 96.2, "reason": "maker exit filled", "est_pnl": 0.3053}
+{"ts": 1787890153.687, "ticker": "KXBTC15M-26AUG280015-15", "dir": "no", "qty": 1.67, "avg_in_yes": 7.6, "exit_yes": 4.0, "held_s": 13.9, "reason": "maker exit filled", "est_pnl": 0.0601}
+{"ts": 1787890347.514, "ticker": "KXBTC15M-26AUG280015-15", "dir": "no", "qty": 10.0, "avg_in_yes": 4.0, "exit_yes": 37.0, "held_s": 193.8, "reason": "BTC edge fading \u2014 rotate off NO", "est_pnl": -3.4901}
+{"ts": 1787890766.902, "ticker": "KXBTC15M-26AUG280030-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 65.0, "exit_yes": 75.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 0.7094}
+{"ts": 1787890841.409, "ticker": "KXBTC15M-26AUG280030-30", "dir": "yes", "qty": 5.0, "avg_in_yes": 76.0, "exit_yes": 55.0, "held_s": 74.5, "reason": "BTC edge fading \u2014 rotate off YES", "est_pnl": -1.2006}
+{"ts": 1787890992.594, "ticker": "KXBTC15M-26AUG280030-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 74.0, "exit_yes": 44.0, "held_s": 115.6, "reason": "BTC edge fading \u2014 rotate off YES", "est_pnl": -3.3072}
+{"ts": 1787891787.902, "ticker": "KXBTC15M-26AUG280045-45", "dir": "no", "qty": 10.0, "avg_in_yes": 27.0, "exit_yes": 19.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 0.5542}
+{"ts": 1787891919.931, "ticker": "KXBTC15M-26AUG280045-45", "dir": "no", "qty": 9.0, "avg_in_yes": 17.0, "exit_yes": 8.5, "held_s": 130.7, "reason": "maker exit filled", "est_pnl": 0.6761}
+{"ts": 1787892180.508, "ticker": "KXBTC15M-26AUG280045-45", "dir": "no", "qty": 9.0, "avg_in_yes": 8.5, "exit_yes": 7.4, "held_s": 259.6, "reason": "first green taker", "est_pnl": 0.0068}
+{"ts": 1787892206.769, "ticker": "KXBTC15M-26AUG280045-45", "dir": "no", "qty": 4.36, "avg_in_yes": 6.5, "exit_yes": 1.0, "held_s": 21.9, "reason": "maker exit filled", "est_pnl": 0.2398}
+{"ts": 1787892824.333, "ticker": "KXBTC15M-26AUG280100-00", "dir": "no", "qty": 10.0, "avg_in_yes": 32.0, "exit_yes": 29.0, "held_s": 306.6, "reason": "first green taker", "est_pnl": 0.0034}
+{"ts": 1787893002.606, "ticker": "KXBTC15M-26AUG280100-00", "dir": "no", "qty": 2.0, "avg_in_yes": 28.0, "exit_yes": 30.0, "held_s": 178.2, "reason": "Bitcoin feed stale", "est_pnl": -0.0977}
+{"ts": 1787893032.794, "ticker": "KXBTC15M-26AUG280100-00", "dir": "no", "qty": 10.0, "avg_in_yes": 24.0, "exit_yes": 13.0, "held_s": 21.8, "reason": "maker exit filled", "est_pnl": 1.1}
+{"ts": 1787893104.314, "ticker": "KXBTC15M-26AUG280100-00", "dir": "no", "qty": 10.0, "avg_in_yes": 6.9, "exit_yes": 3.0, "held_s": 59.6, "reason": "maker exit filled", "est_pnl": 0.39}
+{"ts": 1787893424.256, "ticker": "KXBTC15M-26AUG280115-15", "dir": "no", "qty": 10.0, "avg_in_yes": 33.0, "exit_yes": 64.0, "held_s": 121.7, "reason": "BTC edge fading \u2014 rotate off NO", "est_pnl": -3.4161}
+{"ts": 1787893547.991, "ticker": "KXBTC15M-26AUG280115-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 69.0, "exit_yes": 48.0, "held_s": 98.1, "reason": "BTC edge fading \u2014 rotate off YES", "est_pnl": -2.2748}
+{"ts": 1787893700.532, "ticker": "KXBTC15M-26AUG280115-15", "dir": "no", "qty": 7.0, "avg_in_yes": 26.0, "exit_yes": 32.0, "held_s": 0.5, "reason": "shutting down", "est_pnl": -0.621}
+{"ts": 1787895288.296, "ticker": "KXBTC15M-26AUG280145-45", "dir": "yes", "qty": 8.0, "avg_in_yes": 63.0, "exit_yes": 80.0, "held_s": 165.1, "reason": "maker exit filled", "est_pnl": 1.2294}
+{"ts": 1787895360.928, "ticker": "KXBTC15M-26AUG280145-45", "dir": "yes", "qty": 8.0, "avg_in_yes": 80.0, "exit_yes": 89.0, "held_s": 67.4, "reason": "maker exit filled", "est_pnl": 0.6304}
+{"ts": 1787895448.103, "ticker": "KXBTC15M-26AUG280145-45", "dir": "yes", "qty": 8.0, "avg_in_yes": 88.0, "exit_yes": 81.0, "held_s": 83.6, "reason": "shutting down", "est_pnl": -0.7054}
+{"ts": 1787895581.757, "ticker": "KXBTC15M-26AUG280145-45", "dir": "yes", "qty": 8.0, "avg_in_yes": 87.0, "exit_yes": 93.0, "held_s": 129.0, "reason": "maker exit filled", "est_pnl": 0.4166}
+{"ts": 1787895721.748, "ticker": "KXBTC15M-26AUG280145-45", "dir": "yes", "qty": 8.0, "avg_in_yes": 91.5, "exit_yes": 96.0, "held_s": 137.2, "reason": "maker exit filled", "est_pnl": 0.36}
+{"ts": 1787895794.877, "ticker": "KXBTC15M-26AUG280145-45", "dir": "yes", "qty": 8.0, "avg_in_yes": 95.7, "exit_yes": 99.0, "held_s": 68.7, "reason": "maker exit filled", "est_pnl": 0.2409}
+{"ts": 1787896325.456, "ticker": "KXBTC15M-26AUG280200-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 73.0, "exit_yes": 47.0, "held_s": 306.2, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -2.7744}
+{"ts": 1787896563.46, "ticker": "KXBTC15M-26AUG280200-00", "dir": "no", "qty": 7.0, "avg_in_yes": 18.0, "exit_yes": 9.0, "held_s": 37.2, "reason": "maker exit filled", "est_pnl": 0.5576}
+{"ts": 1787896583.303, "ticker": "KXBTC15M-26AUG280200-00", "dir": "no", "qty": 7.0, "avg_in_yes": 8.7, "exit_yes": 3.3, "held_s": 16.5, "reason": "maker exit filled", "est_pnl": 0.339}
+{"ts": 1787896644.157, "ticker": "KXBTC15M-26AUG280200-00", "dir": "no", "qty": 7.0, "avg_in_yes": 4.0, "exit_yes": 1.0, "held_s": 56.7, "reason": "maker exit filled", "est_pnl": 0.21}
+{"ts": 1787896914.009, "ticker": "KXBTC15M-26AUG280215-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 62.0, "exit_yes": 80.0, "held_s": 88.1, "reason": "maker exit filled", "est_pnl": 1.8}
+{"ts": 1787896914.12, "ticker": "KXBTC15M-26AUG280215-15", "dir": "yes", "qty": 1.0, "avg_in_yes": 80.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787897154.324, "ticker": "KXBTC15M-26AUG280215-15", "dir": "yes", "qty": 1.0, "avg_in_yes": 80.0, "exit_yes": 85.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 0.041}
+{"ts": 1787897394.477, "ticker": "KXBTC15M-26AUG280215-15", "dir": "yes", "qty": 9.0, "avg_in_yes": 86.0, "exit_yes": 96.7, "held_s": 240.1, "reason": "first green taker", "est_pnl": 0.8669}
+{"ts": 1787898029.627, "ticker": "KXBTC15M-26AUG280230-30", "dir": "no", "qty": 10.0, "avg_in_yes": 38.0, "exit_yes": 20.0, "held_s": 98.3, "reason": "maker exit filled", "est_pnl": 1.8}
+{"ts": 1787898344.735, "ticker": "KXBTC15M-26AUG280230-30", "dir": "no", "qty": 4.0, "avg_in_yes": 19.0, "exit_yes": 17.0, "held_s": 313.3, "reason": "first green taker", "est_pnl": 0.0404}
+{"ts": 1787898540.147, "ticker": "KXBTC15M-26AUG280230-30", "dir": "no", "qty": 9.0, "avg_in_yes": 16.0, "exit_yes": 1.0, "held_s": 195.4, "reason": "maker exit filled", "est_pnl": 1.2653}
+{"ts": 1787899223.759, "ticker": "KXBTC15M-26AUG280245-45", "dir": "yes", "qty": 10.0, "avg_in_yes": 68.0, "exit_yes": 33.0, "held_s": 235.6, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -3.6548}
+{"ts": 1787899223.831, "ticker": "KXBTC15M-26AUG280245-45", "dir": "yes", "qty": 10.0, "avg_in_yes": null, "exit_yes": 35.0, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787899349.435, "ticker": "KXBTC15M-26AUG280245-45", "dir": "no", "qty": 10.0, "avg_in_yes": 29.0, "exit_yes": 60.0, "held_s": 113.7, "reason": "BTC crossed \u2014 rotate off NO", "est_pnl": -3.268}
+{"ts": 1787899430.74, "ticker": "KXBTC15M-26AUG280245-45", "dir": "yes", "qty": 7.0, "avg_in_yes": 87.0, "exit_yes": 93.0, "held_s": 13.1, "reason": "maker exit filled", "est_pnl": 0.3645}
+{"ts": 1787899706.65, "ticker": "KXBTC15M-26AUG280300-00", "dir": "yes", "qty": 5.28, "avg_in_yes": 62.0, "exit_yes": 80.0, "held_s": 127.7, "reason": "maker exit filled", "est_pnl": 0.9504}
+{"ts": 1787899828.185, "ticker": "KXBTC15M-26AUG280300-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 80.0, "exit_yes": 89.0, "held_s": 120.7, "reason": "maker exit filled", "est_pnl": 0.788}
+{"ts": 1787900069.402, "ticker": "KXBTC15M-26AUG280300-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 90.0, "exit_yes": 93.1, "held_s": 240.2, "reason": "first green taker", "est_pnl": 0.202}
+{"ts": 1787900228.036, "ticker": "KXBTC15M-26AUG280300-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 93.0, "exit_yes": 97.0, "held_s": 155.5, "reason": "maker exit filled", "est_pnl": 0.3544}
+{"ts": 1787900314.21, "ticker": "KXBTC15M-26AUG280300-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 96.0, "exit_yes": 99.0, "held_s": 75.4, "reason": "maker exit filled", "est_pnl": 0.3}
+{"ts": 1787900675.545, "ticker": "KXBTC15M-26AUG280315-15", "dir": "no", "qty": 10.0, "avg_in_yes": 33.0, "exit_yes": 18.0, "held_s": 112.5, "reason": "maker exit filled", "est_pnl": 1.5}
+{"ts": 1787900804.188, "ticker": "KXBTC15M-26AUG280315-15", "dir": "no", "qty": 4.0, "avg_in_yes": 18.0, "exit_yes": 6.4, "held_s": 128.5, "reason": "maker exit filled", "est_pnl": 0.4226}
+{"ts": 1787901018.501, "ticker": "KXBTC15M-26AUG280315-15", "dir": "no", "qty": 9.0, "avg_in_yes": 7.0, "exit_yes": 1.6, "held_s": 214.2, "reason": "maker exit filled", "est_pnl": 0.4449}
+{"ts": 1787901681.881, "ticker": "KXBTC15M-26AUG280330-30", "dir": "yes", "qty": 4.73, "avg_in_yes": 65.0, "exit_yes": 45.0, "held_s": 346.1, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -1.028}
+{"ts": 1787902001.421, "ticker": "KXBTC15M-26AUG280330-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 85.0, "exit_yes": 92.0, "held_s": 27.6, "reason": "maker exit filled", "est_pnl": 0.6107}
+{"ts": 1787902001.521, "ticker": "KXBTC15M-26AUG280330-30", "dir": "yes", "qty": 3.0, "avg_in_yes": 92.1, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787902050.799, "ticker": "KXBTC15M-26AUG280330-30", "dir": "yes", "qty": 6.0, "avg_in_yes": 92.1, "exit_yes": 97.7, "held_s": 49.2, "reason": "maker exit filled", "est_pnl": 0.32}
+{"ts": 1787902560.505, "ticker": "KXBTC15M-26AUG280345-45", "dir": "no", "qty": 10.0, "avg_in_yes": 38.0, "exit_yes": 25.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 1.1687}
+{"ts": 1787902592.105, "ticker": "KXBTC15M-26AUG280345-45", "dir": "no", "qty": 8.0, "avg_in_yes": 25.0, "exit_yes": 13.0, "held_s": 29.9, "reason": "maker exit filled", "est_pnl": 0.96}
+{"ts": 1787902840.227, "ticker": "KXBTC15M-26AUG280345-45", "dir": "no", "qty": 9.0, "avg_in_yes": 11.0, "exit_yes": 3.3, "held_s": 240.2, "reason": "first green taker", "est_pnl": 0.6728}
+{"ts": 1787903409.151, "ticker": "KXBTC15M-26AUG280400-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 64.0, "exit_yes": 77.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 1.176}
+{"ts": 1787903651.149, "ticker": "KXBTC15M-26AUG280400-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 77.0, "exit_yes": 79.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 0.0838}
+{"ts": 1787903774.757, "ticker": "KXBTC15M-26AUG280400-00", "dir": "yes", "qty": 0.72, "avg_in_yes": 80.0, "exit_yes": 89.0, "held_s": 123.5, "reason": "maker exit filled", "est_pnl": -0.0472}
+{"ts": 1787903866.055, "ticker": "KXBTC15M-26AUG280400-00", "dir": "yes", "qty": 19.0, "avg_in_yes": 91.0, "exit_yes": 96.0, "held_s": 88.9, "reason": "maker exit filled", "est_pnl": 0.8932}
+{"ts": 1787903894.091, "ticker": "KXBTC15M-26AUG280400-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 95.0, "exit_yes": 98.0, "held_s": 27.0, "reason": "maker exit filled", "est_pnl": 0.3}
+{"ts": 1787904184.731, "ticker": "KXBTC15M-26AUG280415-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 64.0, "exit_yes": 81.0, "held_s": 98.0, "reason": "maker exit filled", "est_pnl": 1.7}
+{"ts": 1787904424.897, "ticker": "KXBTC15M-26AUG280415-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 81.0, "exit_yes": 86.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 0.3079}
+{"ts": 1787904424.963, "ticker": "KXBTC15M-26AUG280415-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 87.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787904556.442, "ticker": "KXBTC15M-26AUG280415-15", "dir": "yes", "qty": 20.0, "avg_in_yes": 87.0, "exit_yes": 95.3, "held_s": 131.3, "reason": "maker exit filled", "est_pnl": 1.5808}
+{"ts": 1787904658.037, "ticker": "KXBTC15M-26AUG280415-15", "dir": "yes", "qty": 3.0, "avg_in_yes": 94.8, "exit_yes": 99.0, "held_s": 101.3, "reason": "maker exit filled", "est_pnl": 0.1156}
+{"ts": 1787905194.994, "ticker": "KXBTC15M-26AUG280430-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 69.0, "exit_yes": 83.0, "held_s": 193.6, "reason": "maker exit filled", "est_pnl": 1.4}
+{"ts": 1787905450.144, "ticker": "KXBTC15M-26AUG280430-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 83.0, "exit_yes": 84.0, "held_s": 253.5, "reason": "first green taker", "est_pnl": 0.0059}
+{"ts": 1787905576.462, "ticker": "KXBTC15M-26AUG280430-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 85.0, "exit_yes": 93.4, "held_s": 126.3, "reason": "maker exit filled", "est_pnl": 0.7507}
+{"ts": 1787905576.561, "ticker": "KXBTC15M-26AUG280430-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 92.5, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787905682.151, "ticker": "KXBTC15M-26AUG280430-30", "dir": "yes", "qty": 20.0, "avg_in_yes": 92.5, "exit_yes": 97.1, "held_s": 105.5, "reason": "maker exit filled", "est_pnl": 0.875}
+{"ts": 1787905806.614, "ticker": "KXBTC15M-26AUG280430-30", "dir": "no", "qty": 20.0, "avg_in_yes": 97.1, "exit_yes": null, "held_s": 124.4, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787906384.392, "ticker": "KXBTC15M-26AUG280445-45", "dir": "no", "qty": 10.0, "avg_in_yes": 27.0, "exit_yes": 14.0, "held_s": 36.2, "reason": "maker exit filled", "est_pnl": 1.3}
+{"ts": 1787906384.483, "ticker": "KXBTC15M-26AUG280445-45", "dir": "no", "qty": 10.0, "avg_in_yes": 14.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787906462.509, "ticker": "KXBTC15M-26AUG280445-45", "dir": "no", "qty": 10.0, "avg_in_yes": 15.0, "exit_yes": 8.0, "held_s": 78.0, "reason": "maker exit filled", "est_pnl": 0.7}
+{"ts": 1787906530.809, "ticker": "KXBTC15M-26AUG280445-45", "dir": "no", "qty": 10.0, "avg_in_yes": 7.0, "exit_yes": 72.0, "held_s": 68.0, "reason": "BTC crossed \u2014 rotate off NO", "est_pnl": -6.6868}
+{"ts": 1787906767.121, "ticker": "KXBTC15M-26AUG280500-00", "dir": "no", "qty": 10.0, "avg_in_yes": 30.0, "exit_yes": 16.0, "held_s": 28.4, "reason": "maker exit filled", "est_pnl": 1.4}
+{"ts": 1787906953.831, "ticker": "KXBTC15M-26AUG280500-00", "dir": "no", "qty": 10.0, "avg_in_yes": 16.0, "exit_yes": 7.1, "held_s": 186.7, "reason": "maker exit filled", "est_pnl": 0.7959}
+{"ts": 1787907006.072, "ticker": "KXBTC15M-26AUG280500-00", "dir": "no", "qty": 10.0, "avg_in_yes": 7.0, "exit_yes": 3.0, "held_s": 51.9, "reason": "maker exit filled", "est_pnl": 0.3544}
+{"ts": 1787907006.178, "ticker": "KXBTC15M-26AUG280500-00", "dir": "no", "qty": 10.0, "avg_in_yes": 4.5, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787907252.442, "ticker": "KXBTC15M-26AUG280500-00", "dir": "no", "qty": 10.0, "avg_in_yes": 4.5, "exit_yes": 4.1, "held_s": 246.3, "reason": "first green taker", "est_pnl": 0.0124}
+{"ts": 1787907366.138, "ticker": "KXBTC15M-26AUG280500-00", "dir": "no", "qty": 10.0, "avg_in_yes": 4.0, "exit_yes": 1.0, "held_s": 113.6, "reason": "maker exit filled", "est_pnl": 0.2731}
+{"ts": 1787907781.154, "ticker": "KXBTC15M-26AUG280515-15", "dir": "no", "qty": 20.0, "avg_in_yes": 21.0, "exit_yes": 11.0, "held_s": 75.5, "reason": "maker exit filled", "est_pnl": 1.888}
+{"ts": 1787908323.767, "ticker": "KXBTC15M-26AUG280515-15", "dir": "no", "qty": 8.0, "avg_in_yes": 11.0, "exit_yes": 9.9, "held_s": 541.6, "reason": "first green taker", "est_pnl": 0.038}
+{"ts": 1787908323.85, "ticker": "KXBTC15M-26AUG280515-15", "dir": "no", "qty": 10.0, "avg_in_yes": 9.8, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787908414.81, "ticker": "KXBTC15M-26AUG280515-15", "dir": "no", "qty": 20.0, "avg_in_yes": 9.8, "exit_yes": 1.0, "held_s": 90.8, "reason": "maker exit filled", "est_pnl": 1.6981}
+{"ts": 1787908883.856, "ticker": "KXBTC15M-26AUG280530-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 62.0, "exit_yes": 71.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 0.7558}
+{"ts": 1787909078.269, "ticker": "KXBTC15M-26AUG280530-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 71.0, "exit_yes": 85.0, "held_s": 191.1, "reason": "maker exit filled", "est_pnl": 1.4}
+{"ts": 1787909105.635, "ticker": "KXBTC15M-26AUG280530-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 85.0, "exit_yes": 93.1, "held_s": 27.2, "reason": "maker exit filled", "est_pnl": 0.7207}
+{"ts": 1787909281.961, "ticker": "KXBTC15M-26AUG280530-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 95.0, "exit_yes": 50.0, "held_s": 176.0, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -4.7083}
+{"ts": 1787909647.68, "ticker": "KXBTC15M-26AUG280545-45", "dir": "no", "qty": 10.0, "avg_in_yes": 37.0, "exit_yes": 60.0, "held_s": 59.3, "reason": "BTC crossed \u2014 rotate off NO", "est_pnl": -2.468}
+{"ts": 1787910059.241, "ticker": "KXBTC15M-26AUG280545-45", "dir": "yes", "qty": 7.62, "avg_in_yes": 71.0, "exit_yes": 32.0, "held_s": 17.6, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -3.0879}
+{"ts": 1787910209.89, "ticker": "KXBTC15M-26AUG280545-45", "dir": "no", "qty": 10.0, "avg_in_yes": 14.0, "exit_yes": 5.6, "held_s": 27.2, "reason": "maker exit filled", "est_pnl": 0.7557}
+{"ts": 1787910424.674, "ticker": "KXBTC15M-26AUG280600-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 70.0, "exit_yes": 44.0, "held_s": 59.3, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -2.7725}
+{"ts": 1787911052.353, "ticker": "KXBTC15M-26AUG280600-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 71.0, "exit_yes": 31.0, "held_s": 352.5, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -4.1498}
+{"ts": 1787911472.011, "ticker": "KXBTC15M-26AUG280615-15", "dir": "no", "qty": 10.0, "avg_in_yes": 32.0, "exit_yes": 17.0, "held_s": 116.6, "reason": "maker exit filled", "est_pnl": 1.5}
+{"ts": 1787911627.171, "ticker": "KXBTC15M-26AUG280615-15", "dir": "no", "qty": 10.0, "avg_in_yes": 17.0, "exit_yes": 9.0, "held_s": 155.0, "reason": "maker exit filled", "est_pnl": 0.7012}
+{"ts": 1787911627.318, "ticker": "KXBTC15M-26AUG280615-15", "dir": "no", "qty": 9.0, "avg_in_yes": 8.8, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787911821.399, "ticker": "KXBTC15M-26AUG280615-15", "dir": "no", "qty": 9.0, "avg_in_yes": 8.8, "exit_yes": 4.0, "held_s": 194.1, "reason": "maker exit filled", "est_pnl": 0.3814}
+{"ts": 1787912047.948, "ticker": "KXBTC15M-26AUG280615-15", "dir": "no", "qty": 10.0, "avg_in_yes": 4.1, "exit_yes": 1.0, "held_s": 224.8, "reason": "maker exit filled", "est_pnl": 0.31}
+{"ts": 1787912497.52, "ticker": "KXBTC15M-26AUG280630-30", "dir": "no", "qty": 10.0, "avg_in_yes": 34.0, "exit_yes": 32.0, "held_s": 294.7, "reason": "first green taker", "est_pnl": 0.0476}
+{"ts": 1787912746.157, "ticker": "KXBTC15M-26AUG280630-30", "dir": "no", "qty": 10.0, "avg_in_yes": 24.0, "exit_yes": 15.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 0.8107}
+{"ts": 1787912851.322, "ticker": "KXBTC15M-26AUG280630-30", "dir": "no", "qty": 10.0, "avg_in_yes": 14.0, "exit_yes": 57.0, "held_s": 105.1, "reason": "BTC crossed \u2014 rotate off NO", "est_pnl": -4.5559}
+{"ts": 1787913399.0, "ticker": "KXBTC15M-26AUG280645-45", "dir": "yes", "qty": 10.0, "avg_in_yes": 66.0, "exit_yes": 69.0, "held_s": 361.0, "reason": "first green taker", "est_pnl": 0.1502}
+{"ts": 1787913548.669, "ticker": "KXBTC15M-26AUG280645-45", "dir": "yes", "qty": 10.0, "avg_in_yes": 71.0, "exit_yes": 85.0, "held_s": 141.3, "reason": "maker exit filled", "est_pnl": 1.4}
+{"ts": 1787913599.441, "ticker": "KXBTC15M-26AUG280645-45", "dir": "yes", "qty": 10.0, "avg_in_yes": 84.0, "exit_yes": 92.0, "held_s": 47.6, "reason": "maker exit filled", "est_pnl": 0.8}
+{"ts": 1787913657.342, "ticker": "KXBTC15M-26AUG280645-45", "dir": "yes", "qty": 9.0, "avg_in_yes": 92.5, "exit_yes": 96.0, "held_s": 56.6, "reason": "maker exit filled", "est_pnl": 0.315}
+{"ts": 1787913741.218, "ticker": "KXBTC15M-26AUG280645-45", "dir": "yes", "qty": 11.02, "avg_in_yes": 94.5, "exit_yes": 97.0, "held_s": 83.2, "reason": "maker exit filled", "est_pnl": 0.2718}
+{"ts": 1787914274.555, "ticker": "KXBTC15M-26AUG280700-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 67.0, "exit_yes": 69.0, "held_s": 264.0, "reason": "first green taker", "est_pnl": 0.0502}
+{"ts": 1787914369.993, "ticker": "KXBTC15M-26AUG280700-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 75.0, "exit_yes": 87.0, "held_s": 82.2, "reason": "maker exit filled", "est_pnl": 1.2}
+{"ts": 1787914434.899, "ticker": "KXBTC15M-26AUG280700-00", "dir": "yes", "qty": 10.0, "avg_in_yes": 83.0, "exit_yes": 91.0, "held_s": 54.8, "reason": "maker exit filled", "est_pnl": 0.7012}
+{"ts": 1787914466.842, "ticker": "KXBTC15M-26AUG280700-00", "dir": "yes", "qty": 20.0, "avg_in_yes": 91.7, "exit_yes": 95.3, "held_s": 22.3, "reason": "maker exit filled", "est_pnl": 0.6696}
+{"ts": 1787914575.781, "ticker": "KXBTC15M-26AUG280700-00", "dir": "yes", "qty": 2.0, "avg_in_yes": 94.3, "exit_yes": 99.0, "held_s": 108.6, "reason": "maker exit filled", "est_pnl": 0.094}
+{"ts": 1787914981.985, "ticker": "KXBTC15M-26AUG280715-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 62.0, "exit_yes": 80.0, "held_s": 125.3, "reason": "maker exit filled", "est_pnl": 1.8}
+{"ts": 1787914982.046, "ticker": "KXBTC15M-26AUG280715-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 81.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787915239.115, "ticker": "KXBTC15M-26AUG280715-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 81.0, "exit_yes": 83.0, "held_s": 257.0, "reason": "first green taker", "est_pnl": 0.1012}
+{"ts": 1787915380.581, "ticker": "KXBTC15M-26AUG280715-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 84.0, "exit_yes": 92.0, "held_s": 141.4, "reason": "maker exit filled", "est_pnl": 0.7059}
+{"ts": 1787915551.778, "ticker": "KXBTC15M-26AUG280715-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 92.9, "exit_yes": 98.4, "held_s": 162.1, "reason": "maker exit filled", "est_pnl": 0.55}
+{"ts": 1787915978.024, "ticker": "KXBTC15M-26AUG280730-30", "dir": "no", "qty": 10.0, "avg_in_yes": 36.0, "exit_yes": 65.0, "held_s": 148.7, "reason": "BTC crossed \u2014 rotate off NO", "est_pnl": -3.0593}
+{"ts": 1787916237.673, "ticker": "KXBTC15M-26AUG280730-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 63.0, "exit_yes": 65.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 0.0407}
+{"ts": 1787916291.924, "ticker": "KXBTC15M-26AUG280730-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 75.0, "exit_yes": 87.0, "held_s": 51.0, "reason": "maker exit filled", "est_pnl": 1.2}
+{"ts": 1787916401.816, "ticker": "KXBTC15M-26AUG280730-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 88.0, "exit_yes": 37.0, "held_s": 109.8, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -5.3372}
+{"ts": 1787916591.974, "ticker": "KXBTC15M-26AUG280730-30", "dir": "no", "qty": 10.0, "avg_in_yes": 4.9, "exit_yes": null, "held_s": 79.8, "reason": "first green taker", "est_pnl": null}
+{"ts": 1787920488.638, "ticker": "KXBTC15M-26AUG280845-45", "dir": "no", "qty": 10.0, "avg_in_yes": 37.0, "exit_yes": 30.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 0.553}
+{"ts": 1787920583.182, "ticker": "KXBTC15M-26AUG280845-45", "dir": "no", "qty": 10.0, "avg_in_yes": 28.0, "exit_yes": 15.0, "held_s": 74.8, "reason": "maker exit filled", "est_pnl": 1.3}
+{"ts": 1787920692.831, "ticker": "KXBTC15M-26AUG280845-45", "dir": "no", "qty": 10.0, "avg_in_yes": 15.0, "exit_yes": 11.0, "held_s": 109.6, "reason": "maker exit filled", "est_pnl": 0.3107}
+{"ts": 1787920793.844, "ticker": "KXBTC15M-26AUG280845-45", "dir": "no", "qty": 10.0, "avg_in_yes": 10.0, "exit_yes": 3.2, "held_s": 100.9, "reason": "maker exit filled", "est_pnl": 0.617}
+{"ts": 1787929358.903, "ticker": "KXBTC15M-26AUG281115-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 71.0, "exit_yes": 40.0, "held_s": 81.3, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -3.268}
+{"ts": 1787929645.059, "ticker": "KXBTC15M-26AUG281115-15", "dir": "no", "qty": 10.0, "avg_in_yes": 36.0, "exit_yes": 28.0, "held_s": 240.4, "reason": "first green taker", "est_pnl": 0.6588}
+{"ts": 1787929735.798, "ticker": "KXBTC15M-26AUG281115-15", "dir": "no", "qty": 0.24, "avg_in_yes": 26.0, "exit_yes": 14.0, "held_s": 85.9, "reason": "maker exit filled", "est_pnl": 0.0288}
+{"ts": 1787929735.853, "ticker": "KXBTC15M-26AUG281115-15", "dir": "no", "qty": 10.0, "avg_in_yes": 14.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787929782.997, "ticker": "KXBTC15M-26AUG281115-15", "dir": "no", "qty": 20.0, "avg_in_yes": 14.0, "exit_yes": 7.0, "held_s": 47.1, "reason": "maker exit filled", "est_pnl": 1.3157}
+{"ts": 1787929940.7, "ticker": "KXBTC15M-26AUG281115-15", "dir": "no", "qty": 2.0, "avg_in_yes": 7.0, "exit_yes": 3.0, "held_s": 157.0, "reason": "maker exit filled", "est_pnl": 0.08}
+{"ts": 1787930412.167, "ticker": "KXBTC15M-26AUG281130-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 63.0, "exit_yes": 80.0, "held_s": 172.9, "reason": "maker exit filled", "est_pnl": 1.7}
+{"ts": 1787930574.612, "ticker": "KXBTC15M-26AUG281130-30", "dir": "yes", "qty": 20.0, "avg_in_yes": 80.0, "exit_yes": 48.0, "held_s": 160.3, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -6.8573}
+{"ts": 1787930738.408, "ticker": "KXBTC15M-26AUG281130-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 72.0, "exit_yes": 85.0, "held_s": 59.5, "reason": "maker exit filled", "est_pnl": 1.3}
+{"ts": 1787930746.469, "ticker": "KXBTC15M-26AUG281130-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 83.0, "exit_yes": 91.0, "held_s": 6.8, "reason": "maker exit filled", "est_pnl": 0.8}
+{"ts": 1787931006.7, "ticker": "KXBTC15M-26AUG281130-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 93.7, "exit_yes": null, "held_s": 257.9, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787953397.908, "ticker": "KXBTC15M-26AUG281745-45", "dir": "yes", "qty": 10.0, "avg_in_yes": 95.5, "exit_yes": 98.3, "held_s": 148.3, "reason": "maker exit filled", "est_pnl": 0.2499}
+{"ts": 1787953914.245, "ticker": "KXBTC15M-26AUG281800-00", "dir": "no", "qty": 10.0, "avg_in_yes": 38.0, "exit_yes": 23.0, "held_s": 240.3, "reason": "first green taker", "est_pnl": 1.376}
+{"ts": 1787954092.654, "ticker": "KXBTC15M-26AUG281800-00", "dir": "no", "qty": 4.0, "avg_in_yes": 23.0, "exit_yes": 12.0, "held_s": 177.9, "reason": "maker exit filled", "est_pnl": 0.44}
+{"ts": 1787954175.856, "ticker": "KXBTC15M-26AUG281800-00", "dir": "no", "qty": 9.0, "avg_in_yes": 12.0, "exit_yes": 6.0, "held_s": 83.2, "reason": "maker exit filled", "est_pnl": 0.4734}
+{"ts": 1787954231.6, "ticker": "KXBTC15M-26AUG281800-00", "dir": "no", "qty": 3.0, "avg_in_yes": 6.7, "exit_yes": 2.3, "held_s": 55.7, "reason": "maker exit filled", "est_pnl": 0.1188}
+{"ts": 1787954742.629, "ticker": "KXBTC15M-26AUG281815-15", "dir": "yes", "qty": 10.0, "avg_in_yes": 70.0, "exit_yes": 77.0, "held_s": 240.1, "reason": "first green taker", "est_pnl": 0.576}
+{"ts": 1787954840.14, "ticker": "KXBTC15M-26AUG281815-15", "dir": "yes", "qty": 6.0, "avg_in_yes": 77.0, "exit_yes": 88.0, "held_s": 95.0, "reason": "maker exit filled", "est_pnl": 0.66}
+{"ts": 1787954930.868, "ticker": "KXBTC15M-26AUG281815-15", "dir": "yes", "qty": 9.0, "avg_in_yes": 88.0, "exit_yes": 93.0, "held_s": 90.7, "reason": "maker exit filled", "est_pnl": 0.3834}
+{"ts": 1787955155.359, "ticker": "KXBTC15M-26AUG281815-15", "dir": "yes", "qty": 6.0, "avg_in_yes": 92.8, "exit_yes": 99.0, "held_s": 222.1, "reason": "maker exit filled", "est_pnl": 0.372}
+{"ts": 1787955529.007, "ticker": "KXBTC15M-26AUG281830-30", "dir": "no", "qty": 10.0, "avg_in_yes": 30.0, "exit_yes": 59.0, "held_s": 98.9, "reason": "BTC crossed \u2014 rotate off NO", "est_pnl": -3.0694}
+{"ts": 1787955840.647, "ticker": "KXBTC15M-26AUG281830-30", "dir": "yes", "qty": 10.0, "avg_in_yes": 70.0, "exit_yes": 41.0, "held_s": 170.3, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -3.0694}
+{"ts": 1787975618.376, "ticker": "KXBTC15M-26AUG290000-00", "dir": "no", "qty": 2.0, "avg_in_yes": 14.0, "exit_yes": 4.7, "held_s": 142.8, "reason": "maker exit filled", "est_pnl": 0.1691}
+{"ts": 1787975814.194, "ticker": "KXBTC15M-26AUG290000-00", "dir": "no", "qty": 1.0, "avg_in_yes": 5.0, "exit_yes": 1.0, "held_s": 195.5, "reason": "maker exit filled", "est_pnl": 0.0366}
+{"ts": 1787976202.908, "ticker": "KXBTC15M-26AUG290015-15", "dir": "yes", "qty": 2.0, "avg_in_yes": 64.0, "exit_yes": 81.0, "held_s": 59.3, "reason": "maker exit filled", "est_pnl": 0.34}
+{"ts": 1787976565.08, "ticker": "KXBTC15M-26AUG290015-15", "dir": "yes", "qty": 2.0, "avg_in_yes": 81.0, "exit_yes": 90.0, "held_s": 362.1, "reason": "maker exit filled", "est_pnl": 0.1584}
+{"ts": 1787976737.03, "ticker": "KXBTC15M-26AUG290015-15", "dir": "yes", "qty": 1.0, "avg_in_yes": 90.2, "exit_yes": 99.0, "held_s": 171.8, "reason": "maker exit filled", "est_pnl": 0.0818}
+{"ts": 1787977609.817, "ticker": "KXBTC15M-26AUG290030-30", "dir": "yes", "qty": 2.0, "avg_in_yes": 90.6, "exit_yes": 97.4, "held_s": 125.8, "reason": "maker exit filled", "est_pnl": 0.124}
+{"ts": 1787979098.943, "ticker": "KXBTC15M-26AUG290100-00", "dir": "yes", "qty": 0.43, "avg_in_yes": 65.0, "exit_yes": 81.0, "held_s": 114.6, "reason": "maker exit filled", "est_pnl": 0.0688}
+{"ts": 1787979378.163, "ticker": "KXBTC15M-26AUG290100-00", "dir": "yes", "qty": 2.0, "avg_in_yes": 90.0, "exit_yes": 95.0, "held_s": 263.3, "reason": "maker exit filled", "est_pnl": 0.0874}
+{"ts": 1787979423.368, "ticker": "KXBTC15M-26AUG290100-00", "dir": "yes", "qty": 1.0, "avg_in_yes": 95.0, "exit_yes": 97.0, "held_s": 45.2, "reason": "maker exit filled", "est_pnl": 0.0166}
+{"ts": 1787979426.779, "ticker": "KXBTC15M-26AUG290100-00", "dir": "yes", "qty": 2.0, "avg_in_yes": 95.5, "exit_yes": 98.0, "held_s": 2.6, "reason": "maker exit filled", "est_pnl": 0.0439}
+{"ts": 1787979515.991, "ticker": "KXBTC15M-26AUG290100-00", "dir": "yes", "qty": 1.0, "avg_in_yes": 93.1, "exit_yes": 98.4, "held_s": 79.7, "reason": "maker exit filled", "est_pnl": 0.053}
+{"ts": 1787980276.664, "ticker": "KXBTC15M-26AUG290115-15", "dir": "yes", "qty": 3.0, "avg_in_yes": 73.0, "exit_yes": 86.0, "held_s": 74.8, "reason": "maker exit filled", "est_pnl": 0.39}
+{"ts": 1787980302.189, "ticker": "KXBTC15M-26AUG290115-15", "dir": "yes", "qty": 2.0, "avg_in_yes": 86.0, "exit_yes": 93.4, "held_s": 24.9, "reason": "maker exit filled", "est_pnl": 0.1311}
+{"ts": 1787980345.486, "ticker": "KXBTC15M-26AUG290115-15", "dir": "yes", "qty": 2.0, "avg_in_yes": 93.8, "exit_yes": 97.4, "held_s": 43.0, "reason": "maker exit filled", "est_pnl": 0.0638}
+{"ts": 1787981006.176, "ticker": "KXBTC15M-26AUG290130-30", "dir": "no", "qty": 2.0, "avg_in_yes": 11.0, "exit_yes": 6.0, "held_s": 30.3, "reason": "maker exit filled", "est_pnl": 0.0862}
+{"ts": 1787981317.639, "ticker": "KXBTC15M-26AUG290130-30", "dir": "no", "qty": 2.0, "avg_in_yes": 6.3, "exit_yes": 2.4, "held_s": 308.8, "reason": "maker exit filled", "est_pnl": 0.078}
+{"ts": 1787981960.33, "ticker": "KXBTC15M-26AUG290145-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 81.0, "exit_yes": 90.0, "held_s": 152.2, "reason": "maker exit filled", "est_pnl": 0.1584}
+{"ts": 1787981960.408, "ticker": "KXBTC15M-26AUG290145-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 90.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787982086.178, "ticker": "KXBTC15M-26AUG290145-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 90.0, "exit_yes": 95.2, "held_s": 125.7, "reason": "maker exit filled", "est_pnl": 0.104}
+{"ts": 1787982194.168, "ticker": "KXBTC15M-26AUG290145-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 95.7, "exit_yes": 99.0, "held_s": 107.9, "reason": "maker exit filled", "est_pnl": 0.0602}
+{"ts": 1787982868.244, "ticker": "KXBTC15M-26AUG290200-00", "dir": "no", "qty": 2.0, "avg_in_yes": 13.0, "exit_yes": 6.7, "held_s": 88.5, "reason": "maker exit filled", "est_pnl": 0.1101}
+{"ts": 1787983036.868, "ticker": "KXBTC15M-26AUG290200-00", "dir": "no", "qty": 2.0, "avg_in_yes": 7.5, "exit_yes": 1.0, "held_s": 168.6, "reason": "maker exit filled", "est_pnl": 0.1202}
+{"ts": 1787983663.126, "ticker": "KXBTC15M-26AUG290215-15", "dir": "no", "qty": 3.0, "avg_in_yes": 20.0, "exit_yes": 11.0, "held_s": 344.5, "reason": "maker exit filled", "est_pnl": 0.2364}
+{"ts": 1787983663.192, "ticker": "KXBTC15M-26AUG290215-15", "dir": "no", "qty": 2.0, "avg_in_yes": 11.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787983806.384, "ticker": "KXBTC15M-26AUG290215-15", "dir": "no", "qty": 2.0, "avg_in_yes": 12.0, "exit_yes": 5.9, "held_s": 143.1, "reason": "maker exit filled", "est_pnl": 0.122}
+{"ts": 1787983926.831, "ticker": "KXBTC15M-26AUG290215-15", "dir": "no", "qty": 2.0, "avg_in_yes": 4.7, "exit_yes": 1.0, "held_s": 119.7, "reason": "maker exit filled", "est_pnl": 0.074}
+{"ts": 1787984455.33, "ticker": "KXBTC15M-26AUG290230-30", "dir": "no", "qty": 3.0, "avg_in_yes": 31.0, "exit_yes": 17.0, "held_s": 51.0, "reason": "maker exit filled", "est_pnl": 0.42}
+{"ts": 1787984511.873, "ticker": "KXBTC15M-26AUG290230-30", "dir": "no", "qty": 2.0, "avg_in_yes": 16.0, "exit_yes": 11.0, "held_s": 56.3, "reason": "maker exit filled", "est_pnl": 0.1}
+{"ts": 1787984536.854, "ticker": "KXBTC15M-26AUG290230-30", "dir": "no", "qty": 2.0, "avg_in_yes": 10.0, "exit_yes": 5.0, "held_s": 24.9, "reason": "maker exit filled", "est_pnl": 0.0874}
+{"ts": 1787984797.225, "ticker": "KXBTC15M-26AUG290230-30", "dir": "no", "qty": 2.0, "avg_in_yes": 5.7, "exit_yes": 1.0, "held_s": 253.3, "reason": "maker exit filled", "est_pnl": 0.094}
+{"ts": 1787985301.459, "ticker": "KXBTC15M-26AUG290245-45", "dir": "yes", "qty": 3.0, "avg_in_yes": 75.0, "exit_yes": 87.0, "held_s": 259.0, "reason": "maker exit filled", "est_pnl": 0.36}
+{"ts": 1787985677.624, "ticker": "KXBTC15M-26AUG290245-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 87.0, "exit_yes": 93.0, "held_s": 376.1, "reason": "maker exit filled", "est_pnl": 0.1041}
+{"ts": 1787985717.739, "ticker": "KXBTC15M-26AUG290245-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 94.3, "exit_yes": 97.0, "held_s": 23.5, "reason": "maker exit filled", "est_pnl": 0.0464}
+{"ts": 1787985728.748, "ticker": "KXBTC15M-26AUG290245-45", "dir": "yes", "qty": 1.98, "avg_in_yes": 95.9, "exit_yes": 98.2, "held_s": 9.7, "reason": "maker exit filled", "est_pnl": 0.0455}
+{"ts": 1787987037.619, "ticker": "KXBTC15M-26AUG290315-15", "dir": "yes", "qty": 3.0, "avg_in_yes": 73.0, "exit_yes": 86.0, "held_s": 93.4, "reason": "maker exit filled", "est_pnl": 0.39}
+{"ts": 1787987612.177, "ticker": "KXBTC15M-26AUG290315-15", "dir": "yes", "qty": 2.0, "avg_in_yes": 86.0, "exit_yes": 93.0, "held_s": 574.5, "reason": "maker exit filled", "est_pnl": 0.1231}
+{"ts": 1787988139.207, "ticker": "KXBTC15M-26AUG290330-30", "dir": "yes", "qty": 3.0, "avg_in_yes": 77.0, "exit_yes": 88.0, "held_s": 234.5, "reason": "maker exit filled", "est_pnl": 0.33}
+{"ts": 1787988139.27, "ticker": "KXBTC15M-26AUG290330-30", "dir": "yes", "qty": 2.0, "avg_in_yes": 88.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787988326.425, "ticker": "KXBTC15M-26AUG290330-30", "dir": "yes", "qty": 2.0, "avg_in_yes": 88.0, "exit_yes": 94.5, "held_s": 187.2, "reason": "maker exit filled", "est_pnl": 0.13}
+{"ts": 1787988467.98, "ticker": "KXBTC15M-26AUG290330-30", "dir": "yes", "qty": 2.0, "avg_in_yes": 94.4, "exit_yes": 99.0, "held_s": 141.3, "reason": "maker exit filled", "est_pnl": 0.0845}
+{"ts": 1787989082.666, "ticker": "KXBTC15M-26AUG290345-45", "dir": "yes", "qty": 3.0, "avg_in_yes": 87.0, "exit_yes": 93.0, "held_s": 54.3, "reason": "maker exit filled", "est_pnl": 0.1562}
+{"ts": 1787989277.374, "ticker": "KXBTC15M-26AUG290345-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 92.6, "exit_yes": 98.8, "held_s": 194.6, "reason": "maker exit filled", "est_pnl": 0.1144}
+{"ts": 1787990552.426, "ticker": "KXBTC15M-26AUG290415-15", "dir": "no", "qty": 3.0, "avg_in_yes": 23.0, "exit_yes": 12.0, "held_s": 105.9, "reason": "maker exit filled", "est_pnl": 0.33}
+{"ts": 1787990660.998, "ticker": "KXBTC15M-26AUG290415-15", "dir": "no", "qty": 2.0, "avg_in_yes": 12.0, "exit_yes": 6.0, "held_s": 106.3, "reason": "maker exit filled", "est_pnl": 0.12}
+{"ts": 1787990807.399, "ticker": "KXBTC15M-26AUG290415-15", "dir": "no", "qty": 2.0, "avg_in_yes": 7.8, "exit_yes": 4.0, "held_s": 146.2, "reason": "maker exit filled", "est_pnl": 0.0659}
+{"ts": 1787991015.488, "ticker": "KXBTC15M-26AUG290415-15", "dir": "no", "qty": 2.0, "avg_in_yes": 6.2, "exit_yes": 2.4, "held_s": 203.5, "reason": "maker exit filled", "est_pnl": 0.076}
+{"ts": 1787991864.39, "ticker": "KXBTC15M-26AUG290430-30", "dir": "yes", "qty": 3.0, "avg_in_yes": 84.0, "exit_yes": 92.0, "held_s": 60.1, "reason": "maker exit filled", "est_pnl": 0.2117}
+{"ts": 1787991945.639, "ticker": "KXBTC15M-26AUG290430-30", "dir": "yes", "qty": 2.0, "avg_in_yes": 92.3, "exit_yes": 96.5, "held_s": 80.8, "reason": "maker exit filled", "est_pnl": 0.074}
+{"ts": 1787992051.638, "ticker": "KXBTC15M-26AUG290430-30", "dir": "yes", "qty": 2.0, "avg_in_yes": 96.0, "exit_yes": 99.0, "held_s": 99.5, "reason": "maker exit filled", "est_pnl": 0.06}
+{"ts": 1787992782.159, "ticker": "KXBTC15M-26AUG290445-45", "dir": "no", "qty": 3.0, "avg_in_yes": 16.0, "exit_yes": 7.7, "held_s": 444.1, "reason": "maker exit filled", "est_pnl": 0.2207}
+{"ts": 1787993004.9, "ticker": "KXBTC15M-26AUG290445-45", "dir": "no", "qty": 2.0, "avg_in_yes": 8.7, "exit_yes": 3.4, "held_s": 217.8, "reason": "maker exit filled", "est_pnl": 0.106}
+{"ts": 1787993555.37, "ticker": "KXBTC15M-26AUG290500-00", "dir": "yes", "qty": 4.0, "avg_in_yes": 78.0, "exit_yes": 88.0, "held_s": 269.0, "reason": "maker exit filled", "est_pnl": 0.4}
+{"ts": 1787993777.988, "ticker": "KXBTC15M-26AUG290500-00", "dir": "yes", "qty": 2.0, "avg_in_yes": 89.0, "exit_yes": 94.0, "held_s": 219.8, "reason": "maker exit filled", "est_pnl": 0.0862}
+{"ts": 1787993863.066, "ticker": "KXBTC15M-26AUG290500-00", "dir": "yes", "qty": 0.02, "avg_in_yes": 91.6, "exit_yes": 97.3, "held_s": 83.3, "reason": "maker exit filled", "est_pnl": 0.0011}
+{"ts": 1787994310.582, "ticker": "KXBTC15M-26AUG290515-15", "dir": "yes", "qty": 5.0, "avg_in_yes": 65.0, "exit_yes": 81.0, "held_s": 276.1, "reason": "maker exit filled", "est_pnl": 0.8}
+{"ts": 1787994391.388, "ticker": "KXBTC15M-26AUG290515-15", "dir": "yes", "qty": 4.0, "avg_in_yes": 82.0, "exit_yes": 30.0, "held_s": 71.4, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -2.1802}
+{"ts": 1787994911.781, "ticker": "KXBTC15M-26AUG290515-15", "dir": "no", "qty": 4.0, "avg_in_yes": 37.0, "exit_yes": null, "held_s": 517.6, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787996202.74, "ticker": "KXBTC15M-26AUG290545-45", "dir": "yes", "qty": 3.0, "avg_in_yes": 80.0, "exit_yes": 89.0, "held_s": 129.0, "reason": "maker exit filled", "est_pnl": 0.2364}
+{"ts": 1787996202.809, "ticker": "KXBTC15M-26AUG290545-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 89.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787996257.541, "ticker": "KXBTC15M-26AUG290545-45", "dir": "yes", "qty": 4.0, "avg_in_yes": 89.0, "exit_yes": 94.1, "held_s": 54.6, "reason": "maker exit filled", "est_pnl": 0.1902}
+{"ts": 1787996257.598, "ticker": "KXBTC15M-26AUG290545-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 94.7, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787996441.324, "ticker": "KXBTC15M-26AUG290545-45", "dir": "yes", "qty": 4.0, "avg_in_yes": 93.2, "exit_yes": 99.0, "held_s": 183.6, "reason": "maker exit filled", "est_pnl": 0.2231}
+{"ts": 1787996528.333, "ticker": "KXBTC15M-26AUG290545-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 96.0, "exit_yes": 98.9, "held_s": 39.3, "reason": "maker exit filled", "est_pnl": 0.058}
+{"ts": 1787996974.423, "ticker": "KXBTC15M-26AUG290600-00", "dir": "no", "qty": 4.0, "avg_in_yes": 37.0, "exit_yes": 20.0, "held_s": 251.4, "reason": "maker exit filled", "est_pnl": 0.68}
+{"ts": 1787997233.606, "ticker": "KXBTC15M-26AUG290600-00", "dir": "no", "qty": 2.0, "avg_in_yes": 21.0, "exit_yes": 11.0, "held_s": 256.6, "reason": "maker exit filled", "est_pnl": 0.2}
+{"ts": 1787997863.579, "ticker": "KXBTC15M-26AUG290615-15", "dir": "no", "qty": 3.0, "avg_in_yes": 20.0, "exit_yes": 11.0, "held_s": 54.1, "reason": "maker exit filled", "est_pnl": 0.27}
+{"ts": 1787997863.663, "ticker": "KXBTC15M-26AUG290615-15", "dir": "no", "qty": 2.0, "avg_in_yes": 11.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1787997919.215, "ticker": "KXBTC15M-26AUG290615-15", "dir": "no", "qty": 4.0, "avg_in_yes": 11.0, "exit_yes": 5.1, "held_s": 55.5, "reason": "maker exit filled", "est_pnl": 0.2222}
+{"ts": 1787998061.907, "ticker": "KXBTC15M-26AUG290615-15", "dir": "no", "qty": 2.0, "avg_in_yes": 5.7, "exit_yes": 3.0, "held_s": 142.3, "reason": "maker exit filled", "est_pnl": 0.0464}
+{"ts": 1787998325.699, "ticker": "KXBTC15M-26AUG290615-15", "dir": "no", "qty": 2.0, "avg_in_yes": 4.5, "exit_yes": 1.0, "held_s": 263.6, "reason": "maker exit filled", "est_pnl": 0.0643}
+{"ts": 1787998917.223, "ticker": "KXBTC15M-26AUG290630-30", "dir": "yes", "qty": 3.0, "avg_in_yes": 85.0, "exit_yes": 92.9, "held_s": 388.2, "reason": "maker exit filled", "est_pnl": 0.2102}
+{"ts": 1787999158.163, "ticker": "KXBTC15M-26AUG290630-30", "dir": "yes", "qty": 2.0, "avg_in_yes": 93.1, "exit_yes": 99.0, "held_s": 240.6, "reason": "maker exit filled", "est_pnl": 0.109}
+{"ts": 1787999821.122, "ticker": "KXBTC15M-26AUG290645-45", "dir": "yes", "qty": 3.0, "avg_in_yes": 81.0, "exit_yes": 90.0, "held_s": 48.7, "reason": "maker exit filled", "est_pnl": 0.2376}
+{"ts": 1788000151.269, "ticker": "KXBTC15M-26AUG290645-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 90.0, "exit_yes": 95.0, "held_s": 330.1, "reason": "maker exit filled", "est_pnl": 0.0874}
+{"ts": 1788000701.905, "ticker": "KXBTC15M-26AUG290700-00", "dir": "yes", "qty": 4.0, "avg_in_yes": 80.0, "exit_yes": 89.0, "held_s": 187.9, "reason": "maker exit filled", "est_pnl": 0.3152}
+{"ts": 1788000701.986, "ticker": "KXBTC15M-26AUG290700-00", "dir": "yes", "qty": 2.0, "avg_in_yes": 89.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1788000933.647, "ticker": "KXBTC15M-26AUG290700-00", "dir": "yes", "qty": 2.79, "avg_in_yes": 89.0, "exit_yes": 94.5, "held_s": 231.6, "reason": "maker exit filled", "est_pnl": 0.1396}
+{"ts": 1788001142.46, "ticker": "KXBTC15M-26AUG290700-00", "dir": "yes", "qty": 0.01, "avg_in_yes": 94.7, "exit_yes": 99.0, "held_s": 208.8, "reason": "maker exit filled", "est_pnl": -0.0067}
+{"ts": 1788001877.286, "ticker": "KXBTC15M-26AUG290715-15", "dir": "no", "qty": 4.0, "avg_in_yes": 23.0, "exit_yes": 95.4, "held_s": 553.9, "reason": "BTC crossed \u2014 rotate off NO", "est_pnl": -2.9083}
+{"ts": 1788001969.376, "ticker": "KXBTC15M-26AUG290715-15", "dir": "yes", "qty": 2.0, "avg_in_yes": 95.7, "exit_yes": 98.0, "held_s": 87.0, "reason": "maker exit filled", "est_pnl": 0.0402}
+{"ts": 1788002829.241, "ticker": "KXBTC15M-26AUG290730-30", "dir": "no", "qty": 3.0, "avg_in_yes": 7.9, "exit_yes": 2.9, "held_s": 119.2, "reason": "maker exit filled", "est_pnl": 0.1347}
+{"ts": 1788002933.143, "ticker": "KXBTC15M-26AUG290730-30", "dir": "no", "qty": 2.0, "avg_in_yes": 4.0, "exit_yes": 1.0, "held_s": 91.1, "reason": "maker exit filled", "est_pnl": 0.06}
+{"ts": 1788014357.305, "ticker": "KXBTC15M-26AUG291045-45", "dir": "yes", "qty": 3.0, "avg_in_yes": 72.0, "exit_yes": 85.0, "held_s": 9.3, "reason": "maker exit filled", "est_pnl": 0.39}
+{"ts": 1788014391.69, "ticker": "KXBTC15M-26AUG291045-45", "dir": "yes", "qty": 3.0, "avg_in_yes": 87.0, "exit_yes": 93.1, "held_s": 24.2, "reason": "maker exit filled", "est_pnl": 0.1592}
+{"ts": 1788014434.967, "ticker": "KXBTC15M-26AUG291045-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 92.4, "exit_yes": 96.8, "held_s": 43.0, "reason": "maker exit filled", "est_pnl": 0.0781}
+{"ts": 1788014836.099, "ticker": "KXBTC15M-26AUG291100-00", "dir": "yes", "qty": 4.0, "avg_in_yes": 71.0, "exit_yes": 85.0, "held_s": 64.3, "reason": "maker exit filled", "est_pnl": 0.56}
+{"ts": 1788015343.982, "ticker": "KXBTC15M-26AUG291100-00", "dir": "yes", "qty": 2.0, "avg_in_yes": 85.0, "exit_yes": 92.5, "held_s": 507.8, "reason": "maker exit filled", "est_pnl": 0.1321}
+{"ts": 1788015415.628, "ticker": "KXBTC15M-26AUG291100-00", "dir": "yes", "qty": 2.0, "avg_in_yes": 91.8, "exit_yes": 96.6, "held_s": 71.3, "reason": "maker exit filled", "est_pnl": 0.096}
+{"ts": 1788015763.753, "ticker": "KXBTC15M-26AUG291115-15", "dir": "no", "qty": 4.0, "avg_in_yes": 33.0, "exit_yes": 18.0, "held_s": 100.1, "reason": "maker exit filled", "est_pnl": 0.6}
+{"ts": 1788015963.543, "ticker": "KXBTC15M-26AUG291115-15", "dir": "no", "qty": 3.0, "avg_in_yes": 18.0, "exit_yes": 8.8, "held_s": 199.7, "reason": "maker exit filled", "est_pnl": 0.245}
+{"ts": 1788016361.73, "ticker": "KXBTC15M-26AUG291115-15", "dir": "no", "qty": 3.0, "avg_in_yes": 6.5, "exit_yes": 2.8, "held_s": 398.1, "reason": "maker exit filled", "est_pnl": 0.0982}
+{"ts": 1788017019.196, "ticker": "KXBTC15M-26AUG291130-30", "dir": "no", "qty": 8.0, "avg_in_yes": 22.0, "exit_yes": 77.0, "held_s": 299.6, "reason": "BTC crossed \u2014 rotate off NO", "est_pnl": -4.4992}
+{"ts": 1788017063.652, "ticker": "KXBTC15M-26AUG291130-30", "dir": "yes", "qty": 6.0, "avg_in_yes": 72.0, "exit_yes": 85.0, "held_s": 37.2, "reason": "maker exit filled", "est_pnl": 0.78}
+{"ts": 1788017412.111, "ticker": "KXBTC15M-26AUG291130-30", "dir": "yes", "qty": 1.0, "avg_in_yes": 85.0, "exit_yes": null, "held_s": 348.4, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1788018104.019, "ticker": "KXBTC15M-26AUG291145-45", "dir": "no", "qty": 3.0, "avg_in_yes": 28.0, "exit_yes": 15.0, "held_s": 672.7, "reason": "maker exit filled", "est_pnl": 0.39}
+{"ts": 1788018140.261, "ticker": "KXBTC15M-26AUG291145-45", "dir": "no", "qty": 2.0, "avg_in_yes": 9.1, "exit_yes": 5.0, "held_s": 9.6, "reason": "maker exit filled", "est_pnl": 0.082}
+{"ts": 1788018140.359, "ticker": "KXBTC15M-26AUG291145-45", "dir": "no", "qty": 2.0, "avg_in_yes": 4.7, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1788018147.96, "ticker": "KXBTC15M-26AUG291145-45", "dir": "no", "qty": 2.0, "avg_in_yes": 5.9, "exit_yes": 3.0, "held_s": 7.6, "reason": "maker exit filled", "est_pnl": 0.058}
+{"ts": 1788018479.571, "ticker": "KXBTC15M-26AUG291200-00", "dir": "yes", "qty": 3.0, "avg_in_yes": 70.0, "exit_yes": 84.0, "held_s": 76.4, "reason": "maker exit filled", "est_pnl": 0.42}
+{"ts": 1788018648.77, "ticker": "KXBTC15M-26AUG291200-00", "dir": "yes", "qty": 2.0, "avg_in_yes": 85.0, "exit_yes": 92.0, "held_s": 169.1, "reason": "maker exit filled", "est_pnl": 0.1221}
+{"ts": 1788018950.789, "ticker": "KXBTC15M-26AUG291200-00", "dir": "yes", "qty": 2.0, "avg_in_yes": 91.1, "exit_yes": 14.0, "held_s": 301.8, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -1.5703}
+{"ts": 1788019156.699, "ticker": "KXBTC15M-26AUG291200-00", "dir": "no", "qty": 2.0, "avg_in_yes": 17.0, "exit_yes": 9.0, "held_s": 203.9, "reason": "maker exit filled", "est_pnl": 0.1402}
+{"ts": 1788019487.312, "ticker": "KXBTC15M-26AUG291215-15", "dir": "yes", "qty": 3.0, "avg_in_yes": 63.0, "exit_yes": 80.0, "held_s": 248.1, "reason": "maker exit filled", "est_pnl": 0.51}
+{"ts": 1788019593.671, "ticker": "KXBTC15M-26AUG291215-15", "dir": "yes", "qty": 2.0, "avg_in_yes": 80.0, "exit_yes": 89.0, "held_s": 106.3, "reason": "maker exit filled", "est_pnl": 0.1576}
+{"ts": 1788019748.077, "ticker": "KXBTC15M-26AUG291215-15", "dir": "yes", "qty": 2.0, "avg_in_yes": 89.0, "exit_yes": 94.5, "held_s": 154.3, "reason": "maker exit filled", "est_pnl": 0.0962}
+{"ts": 1788019796.593, "ticker": "KXBTC15M-26AUG291215-15", "dir": "yes", "qty": 2.0, "avg_in_yes": 93.9, "exit_yes": 97.3, "held_s": 48.2, "reason": "maker exit filled", "est_pnl": 0.0599}
+{"ts": 1788019925.763, "ticker": "KXBTC15M-26AUG291215-15", "dir": "yes", "qty": 2.0, "avg_in_yes": 96.0, "exit_yes": 98.0, "held_s": 0.2, "reason": "maker exit filled", "est_pnl": 0.04}
+{"ts": 1788020125.882, "ticker": "KXBTC15M-26AUG291230-30", "dir": "yes", "qty": 3.0, "avg_in_yes": 72.0, "exit_yes": 85.0, "held_s": 11.4, "reason": "maker exit filled", "est_pnl": 0.39}
+{"ts": 1788020601.741, "ticker": "KXBTC15M-26AUG291230-30", "dir": "yes", "qty": 2.0, "avg_in_yes": 86.0, "exit_yes": 27.0, "held_s": 475.8, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -1.2245}
+{"ts": 1788020726.482, "ticker": "KXBTC15M-26AUG291230-30", "dir": "no", "qty": 0.76, "avg_in_yes": 32.0, "exit_yes": 17.0, "held_s": 95.7, "reason": "maker exit filled", "est_pnl": 0.114}
+{"ts": 1788020791.887, "ticker": "KXBTC15M-26AUG291230-30", "dir": "no", "qty": 2.0, "avg_in_yes": 17.0, "exit_yes": 9.0, "held_s": 65.3, "reason": "maker exit filled", "est_pnl": 0.1402}
+{"ts": 1788020809.036, "ticker": "KXBTC15M-26AUG291230-30", "dir": "no", "qty": 2.0, "avg_in_yes": 8.2, "exit_yes": 5.0, "held_s": 17.1, "reason": "maker exit filled", "est_pnl": 0.0534}
+{"ts": 1788020934.19, "ticker": "KXBTC15M-26AUG291230-30", "dir": "no", "qty": 0.02, "avg_in_yes": 5.0, "exit_yes": 1.0, "held_s": 124.8, "reason": "maker exit filled", "est_pnl": 0.0008}
+{"ts": 1788021183.003, "ticker": "KXBTC15M-26AUG291245-45", "dir": "no", "qty": 3.0, "avg_in_yes": 31.0, "exit_yes": 83.0, "held_s": 70.4, "reason": "BTC crossed \u2014 rotate off NO", "est_pnl": -1.5897}
+{"ts": 1788021600.169, "ticker": "KXBTC15M-26AUG291245-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 78.0, "exit_yes": 88.0, "held_s": 410.5, "reason": "maker exit filled", "est_pnl": 0.2}
+{"ts": 1788021600.249, "ticker": "KXBTC15M-26AUG291245-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 88.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1788021648.494, "ticker": "KXBTC15M-26AUG291245-45", "dir": "yes", "qty": 4.0, "avg_in_yes": 88.0, "exit_yes": 95.0, "held_s": 48.1, "reason": "maker exit filled", "est_pnl": 0.2652}
+{"ts": 1788021729.024, "ticker": "KXBTC15M-26AUG291245-45", "dir": "yes", "qty": 1.0, "avg_in_yes": 94.9, "exit_yes": 98.3, "held_s": 80.1, "reason": "maker exit filled", "est_pnl": 0.0306}
+{"ts": 1788022365.367, "ticker": "KXBTC15M-26AUG291300-00", "dir": "yes", "qty": 3.0, "avg_in_yes": 80.0, "exit_yes": 89.0, "held_s": 31.4, "reason": "maker exit filled", "est_pnl": 0.2364}
+{"ts": 1788022365.44, "ticker": "KXBTC15M-26AUG291300-00", "dir": "yes", "qty": 2.0, "avg_in_yes": 90.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1788022742.371, "ticker": "KXBTC15M-26AUG291300-00", "dir": "yes", "qty": 4.0, "avg_in_yes": 90.0, "exit_yes": 95.0, "held_s": 376.7, "reason": "maker exit filled", "est_pnl": 0.1874}
+{"ts": 1788023465.154, "ticker": "KXBTC15M-26AUG291315-15", "dir": "yes", "qty": 3.0, "avg_in_yes": 76.0, "exit_yes": 87.0, "held_s": 445.6, "reason": "maker exit filled", "est_pnl": 0.33}
+{"ts": 1788024216.044, "ticker": "KXBTC15M-26AUG291330-30", "dir": "yes", "qty": 3.0, "avg_in_yes": 75.0, "exit_yes": 25.0, "held_s": 432.5, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -1.5394}
+{"ts": 1788024932.414, "ticker": "KXBTC15M-26AUG291345-45", "dir": "no", "qty": 2.0, "avg_in_yes": 25.0, "exit_yes": 13.0, "held_s": 49.8, "reason": "maker exit filled", "est_pnl": 0.24}
+{"ts": 1788025146.181, "ticker": "KXBTC15M-26AUG291345-45", "dir": "no", "qty": 4.0, "avg_in_yes": 16.0, "exit_yes": 8.0, "held_s": 213.0, "reason": "maker exit filled", "est_pnl": 0.3021}
+{"ts": 1788025502.155, "ticker": "KXBTC15M-26AUG291345-45", "dir": "no", "qty": 1.0, "avg_in_yes": 12.0, "exit_yes": null, "held_s": 355.3, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1788026148.226, "ticker": "KXBTC15M-26AUG291400-00", "dir": "yes", "qty": 3.0, "avg_in_yes": 69.0, "exit_yes": 16.0, "held_s": 329.7, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -1.6183}
+{"ts": 1788026285.617, "ticker": "KXBTC15M-26AUG291400-00", "dir": "no", "qty": 2.0, "avg_in_yes": 17.0, "exit_yes": 9.0, "held_s": 132.6, "reason": "maker exit filled", "est_pnl": 0.1402}
+{"ts": 1788026295.757, "ticker": "KXBTC15M-26AUG291400-00", "dir": "no", "qty": 1.0, "avg_in_yes": 8.9, "exit_yes": 5.0, "held_s": 10.1, "reason": "maker exit filled", "est_pnl": 0.0333}
+{"ts": 1788026295.83, "ticker": "KXBTC15M-26AUG291400-00", "dir": "no", "qty": 1.0, "avg_in_yes": 4.4, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1788026334.085, "ticker": "KXBTC15M-26AUG291400-00", "dir": "no", "qty": 2.0, "avg_in_yes": 7.1, "exit_yes": 3.0, "held_s": 38.1, "reason": "maker exit filled", "est_pnl": 0.0773}
+{"ts": 1788026837.523, "ticker": "KXBTC15M-26AUG291415-15", "dir": "yes", "qty": 2.0, "avg_in_yes": 69.0, "exit_yes": 83.0, "held_s": 430.9, "reason": "maker exit filled", "est_pnl": 0.28}
+{"ts": 1788027191.628, "ticker": "KXBTC15M-26AUG291415-15", "dir": "yes", "qty": 1.22, "avg_in_yes": 82.0, "exit_yes": 91.0, "held_s": 347.7, "reason": "maker exit filled", "est_pnl": 0.0891}
+{"ts": 1788027239.18, "ticker": "KXBTC15M-26AUG291415-15", "dir": "yes", "qty": 0.02, "avg_in_yes": 90.3, "exit_yes": 95.0, "held_s": 11.2, "reason": "maker exit filled", "est_pnl": 0.0009}
+{"ts": 1788027890.826, "ticker": "KXBTC15M-26AUG291430-30", "dir": "no", "qty": 2.0, "avg_in_yes": 32.0, "exit_yes": 85.0, "held_s": 486.7, "reason": "BTC crossed \u2014 rotate off NO", "est_pnl": -1.0779}
+{"ts": 1788028085.656, "ticker": "KXBTC15M-26AUG291430-30", "dir": "yes", "qty": 2.0, "avg_in_yes": 82.0, "exit_yes": 91.0, "held_s": 184.5, "reason": "maker exit filled", "est_pnl": 0.1593}
+{"ts": 1788028559.231, "ticker": "KXBTC15M-26AUG291445-45", "dir": "no", "qty": 2.0, "avg_in_yes": 25.0, "exit_yes": 78.0, "held_s": 299.5, "reason": "BTC crossed \u2014 rotate off NO", "est_pnl": -1.0841}
+{"ts": 1788028676.07, "ticker": "KXBTC15M-26AUG291445-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 72.0, "exit_yes": 85.0, "held_s": 116.6, "reason": "maker exit filled", "est_pnl": 0.26}
+{"ts": 1788028676.123, "ticker": "KXBTC15M-26AUG291445-45", "dir": "yes", "qty": 1.0, "avg_in_yes": 85.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1788028750.655, "ticker": "KXBTC15M-26AUG291445-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 85.0, "exit_yes": 92.0, "held_s": 74.4, "reason": "maker exit filled", "est_pnl": 0.131}
+{"ts": 1788028842.224, "ticker": "KXBTC15M-26AUG291445-45", "dir": "yes", "qty": 0.03, "avg_in_yes": 91.6, "exit_yes": 96.8, "held_s": 91.2, "reason": "maker exit filled", "est_pnl": 0.0016}
+{"ts": 1788029010.236, "ticker": "KXBTC15M-26AUG291445-45", "dir": "yes", "qty": 1.0, "avg_in_yes": 93.6, "exit_yes": 97.0, "held_s": 62.8, "reason": "maker exit filled", "est_pnl": 0.0298}
+{"ts": 1788029010.306, "ticker": "KXBTC15M-26AUG291445-45", "dir": "yes", "qty": 1.0, "avg_in_yes": 96.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1788029029.222, "ticker": "KXBTC15M-26AUG291445-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 96.0, "exit_yes": 98.1, "held_s": 18.7, "reason": "maker exit filled", "est_pnl": 0.0393}
+{"ts": 1788029365.068, "ticker": "KXBTC15M-26AUG291500-00", "dir": "yes", "qty": 2.0, "avg_in_yes": 66.0, "exit_yes": 82.0, "held_s": 92.2, "reason": "maker exit filled", "est_pnl": 0.32}
+{"ts": 1788029365.15, "ticker": "KXBTC15M-26AUG291500-00", "dir": "yes", "qty": 1.0, "avg_in_yes": 84.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1788029571.585, "ticker": "KXBTC15M-26AUG291500-00", "dir": "yes", "qty": 2.0, "avg_in_yes": 84.0, "exit_yes": 91.0, "held_s": 206.3, "reason": "maker exit filled", "est_pnl": 0.1305}
+{"ts": 1788029860.945, "ticker": "KXBTC15M-26AUG291500-00", "dir": "yes", "qty": 1.0, "avg_in_yes": 90.3, "exit_yes": 95.0, "held_s": 289.2, "reason": "maker exit filled", "est_pnl": 0.0408}
+{"ts": 1788029895.355, "ticker": "KXBTC15M-26AUG291500-00", "dir": "yes", "qty": 1.0, "avg_in_yes": 93.7, "exit_yes": 97.3, "held_s": 33.9, "reason": "maker exit filled", "est_pnl": 0.036}
+{"ts": 1788029923.983, "ticker": "KXBTC15M-26AUG291500-00", "dir": "yes", "qty": 1.0, "avg_in_yes": 95.9, "exit_yes": 98.2, "held_s": 26.6, "reason": "maker exit filled", "est_pnl": 0.023}
+{"ts": 1788030285.912, "ticker": "KXBTC15M-26AUG291515-15", "dir": "yes", "qty": 2.0, "avg_in_yes": 63.0, "exit_yes": 80.0, "held_s": 81.7, "reason": "maker exit filled", "est_pnl": 0.34}
+{"ts": 1788030408.452, "ticker": "KXBTC15M-26AUG291515-15", "dir": "yes", "qty": 2.0, "avg_in_yes": 80.0, "exit_yes": 89.0, "held_s": 122.5, "reason": "maker exit filled", "est_pnl": 0.1576}
+{"ts": 1788030603.458, "ticker": "KXBTC15M-26AUG291515-15", "dir": "yes", "qty": 1.0, "avg_in_yes": 90.0, "exit_yes": 95.0, "held_s": 194.6, "reason": "maker exit filled", "est_pnl": 0.0437}
+{"ts": 1788030722.867, "ticker": "KXBTC15M-26AUG291515-15", "dir": "yes", "qty": 1.0, "avg_in_yes": 94.5, "exit_yes": 99.0, "held_s": 119.3, "reason": "maker exit filled", "est_pnl": 0.0413}
+{"ts": 1788031569.596, "ticker": "KXBTC15M-26AUG291530-30", "dir": "no", "qty": 2.0, "avg_in_yes": 7.7, "exit_yes": 4.0, "held_s": 144.9, "reason": "maker exit filled", "est_pnl": 0.074}
+{"ts": 1788031693.321, "ticker": "KXBTC15M-26AUG291530-30", "dir": "no", "qty": 2.0, "avg_in_yes": 4.4, "exit_yes": 1.0, "held_s": 118.4, "reason": "maker exit filled", "est_pnl": 0.0621}
+{"ts": 1788032431.141, "ticker": "KXBTC15M-26AUG291545-45", "dir": "no", "qty": 2.0, "avg_in_yes": 14.0, "exit_yes": 7.0, "held_s": 103.9, "reason": "maker exit filled", "est_pnl": 0.1231}
+{"ts": 1788032712.185, "ticker": "KXBTC15M-26AUG291545-45", "dir": "no", "qty": 3.0, "avg_in_yes": 6.9, "exit_yes": null, "held_s": 269.5, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1788033335.233, "ticker": "KXBTC15M-26AUG291600-00", "dir": "no", "qty": 1.0, "avg_in_yes": 18.0, "exit_yes": 8.6, "held_s": 60.1, "reason": "maker exit filled", "est_pnl": 0.0836}
+{"ts": 1788033409.313, "ticker": "KXBTC15M-26AUG291600-00", "dir": "no", "qty": 1.0, "avg_in_yes": 8.0, "exit_yes": 3.1, "held_s": 72.8, "reason": "maker exit filled", "est_pnl": 0.049}
+{"ts": 1788033434.844, "ticker": "KXBTC15M-26AUG291600-00", "dir": "no", "qty": 1.0, "avg_in_yes": 4.0, "exit_yes": 2.0, "held_s": 24.6, "reason": "maker exit filled", "est_pnl": 0.02}
+{"ts": 1788033811.204, "ticker": "KXBTC15M-26AUG291615-15", "dir": "yes", "qty": 2.0, "avg_in_yes": 74.0, "exit_yes": 86.0, "held_s": 18.1, "reason": "maker exit filled", "est_pnl": 0.24}
+{"ts": 1788034281.51, "ticker": "KXBTC15M-26AUG291615-15", "dir": "yes", "qty": 1.0, "avg_in_yes": 87.0, "exit_yes": 93.0, "held_s": 470.0, "reason": "maker exit filled", "est_pnl": 0.052}
+{"ts": 1788034428.346, "ticker": "KXBTC15M-26AUG291615-15", "dir": "yes", "qty": 1.0, "avg_in_yes": 93.1, "exit_yes": 99.0, "held_s": 146.5, "reason": "maker exit filled", "est_pnl": 0.0545}
+{"ts": 1788035219.136, "ticker": "KXBTC15M-26AUG291630-30", "dir": "yes", "qty": 2.0, "avg_in_yes": 75.0, "exit_yes": 8.0, "held_s": 459.7, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -1.3504}
+{"ts": 1788035841.482, "ticker": "KXBTC15M-26AUG291645-45", "dir": "no", "qty": 1.0, "avg_in_yes": 28.0, "exit_yes": 15.0, "held_s": 356.1, "reason": "maker exit filled", "est_pnl": 0.13}
+{"ts": 1788035841.556, "ticker": "KXBTC15M-26AUG291645-45", "dir": "no", "qty": 1.0, "avg_in_yes": 14.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1788036162.432, "ticker": "KXBTC15M-26AUG291645-45", "dir": "no", "qty": 1.0, "avg_in_yes": 14.0, "exit_yes": 4.0, "held_s": 320.9, "reason": "maker exit filled", "est_pnl": 0.1}
+{"ts": 1788036223.8, "ticker": "KXBTC15M-26AUG291645-45", "dir": "no", "qty": 1.0, "avg_in_yes": 4.9, "exit_yes": 1.0, "held_s": 61.3, "reason": "maker exit filled", "est_pnl": 0.0357}
+{"ts": 1788037706.258, "ticker": "KXBTC15M-26AUG291715-15", "dir": "no", "qty": 1.0, "avg_in_yes": 28.0, "exit_yes": 77.0, "held_s": 410.7, "reason": "BTC crossed \u2014 rotate off NO", "est_pnl": -0.5024}
+{"ts": 1788037996.948, "ticker": "KXBTC15M-26AUG291715-15", "dir": "yes", "qty": 1.0, "avg_in_yes": 95.4, "exit_yes": 98.9, "held_s": 40.9, "reason": "maker exit filled", "est_pnl": 0.0319}
+{"ts": 1788038786.978, "ticker": "KXBTC15M-26AUG291730-30", "dir": "no", "qty": 1.0, "avg_in_yes": 9.8, "exit_yes": 4.5, "held_s": 67.9, "reason": "maker exit filled", "est_pnl": 0.0468}
+{"ts": 1788038900.717, "ticker": "KXBTC15M-26AUG291730-30", "dir": "no", "qty": 1.0, "avg_in_yes": 4.9, "exit_yes": 1.0, "held_s": 113.4, "reason": "maker exit filled", "est_pnl": 0.0357}
+{"ts": 1788039607.572, "ticker": "KXBTC15M-26AUG291745-45", "dir": "no", "qty": 1.0, "avg_in_yes": 27.0, "exit_yes": 14.0, "held_s": 160.5, "reason": "maker exit filled", "est_pnl": 0.13}
+{"ts": 1788039772.193, "ticker": "KXBTC15M-26AUG291745-45", "dir": "no", "qty": 1.0, "avg_in_yes": 29.0, "exit_yes": 15.0, "held_s": 148.0, "reason": "maker exit filled", "est_pnl": 0.14}
+{"ts": 1788039847.623, "ticker": "KXBTC15M-26AUG291745-45", "dir": "no", "qty": 1.0, "avg_in_yes": 8.0, "exit_yes": 4.0, "held_s": 2.6, "reason": "maker exit filled", "est_pnl": 0.0348}
+{"ts": 1788039851.147, "ticker": "KXBTC15M-26AUG291745-45", "dir": "no", "qty": 1.0, "avg_in_yes": 5.0, "exit_yes": 2.0, "held_s": 2.9, "reason": "maker exit filled", "est_pnl": 0.03}
+{"ts": 1788040361.916, "ticker": "KXBTC15M-26AUG291800-00", "dir": "yes", "qty": 1.0, "avg_in_yes": 77.0, "exit_yes": 88.0, "held_s": 306.8, "reason": "maker exit filled", "est_pnl": 0.11}
+{"ts": 1788040558.281, "ticker": "KXBTC15M-26AUG291800-00", "dir": "yes", "qty": 1.0, "avg_in_yes": 89.0, "exit_yes": 97.9, "held_s": 196.3, "reason": "maker exit filled", "est_pnl": 0.0821}
+{"ts": 1788041458.239, "ticker": "KXBTC15M-26AUG291815-15", "dir": "yes", "qty": 1.0, "avg_in_yes": 79.0, "exit_yes": 89.0, "held_s": 260.9, "reason": "maker exit filled", "est_pnl": 0.1}
+{"ts": 1788041617.225, "ticker": "KXBTC15M-26AUG291815-15", "dir": "yes", "qty": 1.0, "avg_in_yes": 87.0, "exit_yes": 1.1, "held_s": 158.9, "reason": "BTC crossed \u2014 rotate off YES", "est_pnl": -0.8678}
+{"ts": 1788041624.812, "ticker": "KXBTC15M-26AUG291815-15", "dir": "no", "qty": 1.0, "avg_in_yes": 6.1, "exit_yes": 3.0, "held_s": 7.5, "reason": "maker exit filled", "est_pnl": 0.0269}
+{"ts": 1788041651.413, "ticker": "KXBTC15M-26AUG291815-15", "dir": "no", "qty": 1.0, "avg_in_yes": 4.0, "exit_yes": 2.0, "held_s": 12.5, "reason": "maker exit filled", "est_pnl": 0.02}
+{"ts": 1788042339.672, "ticker": "KXBTC15M-26AUG291830-30", "dir": "no", "qty": 1.0, "avg_in_yes": 33.0, "exit_yes": 18.0, "held_s": 347.9, "reason": "maker exit filled", "est_pnl": 0.15}
+{"ts": 1788042622.03, "ticker": "KXBTC15M-26AUG291830-30", "dir": "no", "qty": 1.0, "avg_in_yes": 30.0, "exit_yes": null, "held_s": 235.4, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1788043200.422, "ticker": "KXBTC15M-26AUG291845-45", "dir": "yes", "qty": 2.0, "avg_in_yes": 79.0, "exit_yes": 89.0, "held_s": 28.2, "reason": "maker exit filled", "est_pnl": 0.1888}
+{"ts": 1788043330.646, "ticker": "KXBTC15M-26AUG291845-45", "dir": "yes", "qty": 1.0, "avg_in_yes": 87.0, "exit_yes": 93.0, "held_s": 129.1, "reason": "maker exit filled", "est_pnl": 0.052}
+{"ts": 1788043448.709, "ticker": "KXBTC15M-26AUG291845-45", "dir": "yes", "qty": 1.0, "avg_in_yes": 94.9, "exit_yes": 99.0, "held_s": 105.9, "reason": "maker exit filled", "est_pnl": 0.0376}
+{"ts": 1788044245.254, "ticker": "KXBTC15M-26AUG291900-00", "dir": "yes", "qty": 1.0, "avg_in_yes": 87.0, "exit_yes": 94.7, "held_s": 153.7, "reason": "maker exit filled", "est_pnl": 0.069}
+{"ts": 1788044264.314, "ticker": "KXBTC15M-26AUG291900-00", "dir": "yes", "qty": 1.0, "avg_in_yes": 93.7, "exit_yes": 97.0, "held_s": 18.5, "reason": "maker exit filled", "est_pnl": 0.033}
+{"ts": 1788045197.299, "ticker": "KXBTC15M-26AUG291915-15", "dir": "yes", "qty": 1.0, "avg_in_yes": 79.0, "exit_yes": 89.0, "held_s": 382.5, "reason": "maker exit filled", "est_pnl": 0.1}
+{"ts": 1788048022.931, "ticker": "KXBTC15M-26AUG292000-00", "dir": "yes", "qty": 2.0, "avg_in_yes": 62.0, "exit_yes": null, "held_s": 712.2, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1788048603.248, "ticker": "KXBTC15M-26AUG292015-15", "dir": "no", "qty": 1.0, "avg_in_yes": 37.0, "exit_yes": 20.0, "held_s": 292.3, "reason": "maker exit filled", "est_pnl": 0.17}
+{"ts": 1788048630.904, "ticker": "KXBTC15M-26AUG292015-15", "dir": "no", "qty": 1.0, "avg_in_yes": 20.0, "exit_yes": 11.0, "held_s": 27.6, "reason": "maker exit filled", "est_pnl": 0.0788}
+{"ts": 1788048631.038, "ticker": "KXBTC15M-26AUG292015-15", "dir": "no", "qty": 1.0, "avg_in_yes": 11.0, "exit_yes": null, "held_s": 0.0, "reason": "maker exit filled", "est_pnl": null}
+{"ts": 1788048647.496, "ticker": "KXBTC15M-26AUG292015-15", "dir": "no", "qty": 1.0, "avg_in_yes": 11.0, "exit_yes": 5.8, "held_s": 16.5, "reason": "maker exit filled", "est_pnl": 0.052}
+{"ts": 1788048686.095, "ticker": "KXBTC15M-26AUG292015-15", "dir": "no", "qty": 1.0, "avg_in_yes": 6.2, "exit_yes": 2.6, "held_s": 34.3, "reason": "maker exit filled", "est_pnl": 0.0319}
+{"ts": 1788049548.803, "ticker": "KXBTC15M-26AUG292030-30", "dir": "yes", "qty": 1.0, "avg_in_yes": 80.0, "exit_yes": 89.0, "held_s": 499.3, "reason": "maker exit filled", "est_pnl": 0.0788}
+{"ts": 1788049689.338, "ticker": "KXBTC15M-26AUG292030-30", "dir": "yes", "qty": 1.0, "avg_in_yes": 89.0, "exit_yes": 99.0, "held_s": 140.5, "reason": "maker exit filled", "est_pnl": 0.0931}
+{"ts": 1788050235.292, "ticker": "KXBTC15M-26AUG292045-45", "dir": "yes", "qty": 1.0, "avg_in_yes": 80.0, "exit_yes": 89.0, "held_s": 63.0, "reason": "maker exit filled", "est_pnl": 0.0788}
+{"ts": 1788050430.685, "ticker": "KXBTC15M-26AUG292045-45", "dir": "yes", "qty": 1.0, "avg_in_yes": 89.0, "exit_yes": 70.0, "held_s": 195.3, "reason": "shutting down", "est_pnl": -0.2116}

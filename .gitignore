@@ -1,0 +1,4 @@
+rogue.log
+supervisor.log
+__pycache__/
+*.pyc
