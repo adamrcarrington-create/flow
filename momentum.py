@@ -40,7 +40,7 @@ from flow import BTCSpot, BookState, Kalshi, Funding, tracker
 # --- Momentum config ---
 MOM_ENTRY_VOL_MULT = 2.0    # 2x vol bar for entry velocity
 MOM_EXIT_SECS = 10.0        # IOC exit window at end of cycle
-MOM_BTC_HISTORY = 20        # Keep last N BTC spot samples for momentum calc
+MOM_BTC_HISTORY = 60        # Keep last ~24s of BTC spot samples for velocity
 MOM_REVERSAL_MULT = 1.0     # Exit reversal at 1x vol bar
 # KXBTC15M oscillates $5-15 around strike every 5-10s. Velocity must
 # beat chop: $5 in 5s = 1.0/s is real momentum, not noise.
@@ -101,7 +101,9 @@ class MomentumBot:
             self.btc_history = self.btc_history[-MOM_BTC_HISTORY:]
 
     def _btc_velocity(self) -> float:
-        """BTC price velocity (USD/sec) over recent history."""
+        """BTC price velocity (USD/sec) over recent history.
+        Returns signed velocity: positive = rising, negative = falling.
+        """
         hist = self.btc_history
         if len(hist) < 3:
             return 0.0
@@ -109,7 +111,7 @@ class MomentumBot:
         if dt < 0.3:
             return 0.0
         dprice = hist[-1][1] - hist[0][1]
-        return abs(dprice) / dt
+        return dprice / dt  # signed: positive = up, negative = down
 
     def _vol_bar(self, secs: float) -> float:
         """Required BTC movement threshold at this time-to-expiry."""
@@ -142,23 +144,24 @@ class MomentumBot:
         if gap < cfg.min_btc_gap:
             return None
 
-        # Momentum: BTC must be moving fast enough to be real momentum,
-        # not 5-second noise. KXBTC15M oscillates $5-15 around strike,
-        # so we need >= $2/s velocity to confirm direction.
+        # Momentum: BTC must be moving AWAY from the strike with real
+        # directional velocity, not just oscillating. For NO entry, BTC
+        # must be falling; for YES, rising. KXBTC15M oscillates $5-15
+        # around strike, so >= $1/s directional velocity confirms momentum.
         velocity = self._btc_velocity()
         required_vel = max(
             MOM_MIN_VELOCITY,
             (vol_bar / max(secs, 1.0)) * MOM_ENTRY_VOL_MULT,
         )
-        if velocity < required_vel:
-            return None
 
         # Consensus across all BTC sources
         if spot > strike + cfg.min_btc_gap:
-            if self.btc.all_on_side(strike, yes_side=True):
+            # YES entry: BTC above strike AND rising with momentum
+            if velocity >= required_vel and self.btc.all_on_side(strike, yes_side=True):
                 return "yes"
         elif spot < strike - cfg.min_btc_gap:
-            if self.btc.all_on_side(strike, yes_side=False):
+            # NO entry: BTC below strike AND falling with momentum
+            if velocity <= -required_vel and self.btc.all_on_side(strike, yes_side=False):
                 return "no"
         return None
 
