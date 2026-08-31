@@ -7,8 +7,8 @@ ride to expiry, exit on reversal or final-second IOC. No defense
 rotation, no maker entries waiting to be picked off.
 
 Math:
-  - Entry: BTC must be $25+ through strike AND moving at 2x vol bar.
-    IOC sweep the 1-tick offer immediately. Captures momentum at source.
+  - Entry: BTC must be $5+ through strike AND moving at >= 2USD/s
+    (beats 5s noise on 15-min BTC binary). IOC sweep the 1-tick offer.
   - Exit (reversal): BTC crosses back through strike by vol bar.
     IOC sweep out to stop losses before they accelerate.
   - Exit (time): Last 10s — IOC sweep toward 0/100 for convergence edge.
@@ -38,10 +38,13 @@ from flow import (
 from flow import BTCSpot, BookState, Kalshi, Funding, tracker
 
 # --- Momentum config ---
-MOM_ENTRY_VOL_MULT = 2.0    # 2x normal volatility threshold for entry
+MOM_ENTRY_VOL_MULT = 2.0    # 2x vol bar for entry velocity
 MOM_EXIT_SECS = 10.0        # IOC exit window at end of cycle
 MOM_BTC_HISTORY = 20        # Keep last N BTC spot samples for momentum calc
-MOM_REVERSAL_MULT = 1.0     # Exit on reversal equal to vol bar (same magnitude)
+MOM_REVERSAL_MULT = 1.0     # Exit reversal at 1x vol bar
+# KXBTC15M oscillates $5-15 around strike. Velocity must beat noise:
+# a $10 move in 3 seconds = 3.3/s is real momentum, not chop.
+MOM_MIN_VELOCITY = 2.0      # USD/sec minimum BTC velocity for entry
 
 
 class MomentumBot:
@@ -139,9 +142,14 @@ class MomentumBot:
         if gap < cfg.min_btc_gap:
             return None
 
-        # Momentum: BTC must be moving at least 2x the per-second vol bar threshold
+        # Momentum: BTC must be moving fast enough to be real momentum,
+        # not 5-second noise. KXBTC15M oscillates $5-15 around strike,
+        # so we need >= $2/s velocity to confirm direction.
         velocity = self._btc_velocity()
-        required_vel = (vol_bar / max(secs, 1.0)) * MOM_ENTRY_VOL_MULT
+        required_vel = max(
+            MOM_MIN_VELOCITY,
+            (vol_bar / max(secs, 1.0)) * MOM_ENTRY_VOL_MULT,
+        )
         if velocity < required_vel:
             return None
 

@@ -73,9 +73,8 @@ class Config:
     # (overnight 7¢ NO → 72¢ YES was −$6.69).
     rotate_cheap: float = 15.0
     # Gap must beat recent 5-second noise, not a random-walk to expiry.
-    # σ × sqrt(secs_left/5) asked $90–$250 with 12m left and filtered the
-    # live $76 NO clip (YES 30–31¢ → 18¢ eight minutes later). 1.5σ of
-    # 5s moves was ~$25 today and never bound vs min_btc_gap.
+    # KXBTC15M oscillates $5-15 around strike — entry needs $5+ gap plus
+    # real velocity from the vol bar to catch genuine momentum, not chop.
     vol_gap_mult: float = 2.0
     # Hysteresis on the vol bar: an existing rest only needs this fraction
     # of the entry bar to stay up, so the quote doesn't churn on every
@@ -112,7 +111,7 @@ class Config:
     pressure_free_mult: float = 1.0
     # Floor so 2σ can still bind in chop. $40 sat out live 63–68¢ favorites
     # with a $27–$38 BTC lead — the clip — then swept 67–74¢ and fade-dumped.
-    min_btc_gap: float = 25.0
+    min_btc_gap: float = 5.0
     # Crowded-perp veto, not a 15m direction call. 0.55 ann = 0.05%/8h
     # (Kraken/literature crowded-long bar). Hyperliquid BTC funds hourly
     # (verified 60m history). Fail-open if the feed is stale.
