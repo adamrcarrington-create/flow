@@ -38,9 +38,10 @@ from flow import (
 from flow import BTCSpot, BookState, Kalshi, Funding, tracker
 
 # --- Momentum config ---
+MOM_BTC_HISTORY = 30        # ~12s window at 2.5 samples/sec
+MOM_BTC_SAMPLE_INTERVAL = 0.4  # Only record BTC sample every 0.4s
 MOM_ENTRY_VOL_MULT = 2.0    # 2x vol bar for entry velocity
 MOM_EXIT_SECS = 10.0        # IOC exit window at end of cycle
-MOM_BTC_HISTORY = 60        # Keep last ~24s of BTC spot samples for velocity
 MOM_REVERSAL_MULT = 1.0     # Exit reversal at 1x vol bar
 # KXBTC15M oscillates $5-15 around strike every 5-10s. Velocity must
 # beat chop: $5 in 5s = 1.0/s is real momentum, not noise.
@@ -70,6 +71,7 @@ class MomentumBot:
         self._cooling: set[str] = set()
         self._cool_ts: dict[str, float] = {}
         self.btc_history: list[tuple[float, float]] = []  # (ts, spot)
+        self._last_sample_ts: float = 0.0
         self.tick_count: int = 0
 
     # ----- Sizing / fees from the existing Clip -----
@@ -92,11 +94,16 @@ class MomentumBot:
     # ----- BTC momentum tracking -----
 
     def _update_btc(self, spot: Optional[float]):
-        """Track BTC spot history for momentum velocity calc."""
+        """Track BTC spot history for momentum velocity calc.
+        Samples at MOM_BTC_SAMPLE_INTERVAL to build a ~12s velocity window
+        regardless of WATCH loop frequency (150+ Hz)."""
         if spot is None:
             return
-        ts = datetime.now(timezone.utc).timestamp()
-        self.btc_history.append((ts, spot))
+        now = datetime.now(timezone.utc).timestamp()
+        if now - self._last_sample_ts < MOM_BTC_SAMPLE_INTERVAL:
+            return
+        self._last_sample_ts = now
+        self.btc_history.append((now, spot))
         if len(self.btc_history) > MOM_BTC_HISTORY:
             self.btc_history = self.btc_history[-MOM_BTC_HISTORY:]
 
@@ -140,28 +147,22 @@ class MomentumBot:
             return None  # Too late to enter
 
         vol_bar = self._vol_bar(secs)
+        # Momentum entry: BTC must be sufficiently far from the strike
+        # and all exchange sources agree on direction. IOC orders provide
+        # natural momentum filtering — fills only happen when the book
+        # is swept through at speed. No velocity threshold needed.
         gap = abs(spot - strike)
         if gap < cfg.min_btc_gap:
             return None
 
-        # Momentum: BTC must be moving AWAY from the strike with real
-        # directional velocity, not just oscillating. For NO entry, BTC
-        # must be falling; for YES, rising. KXBTC15M oscillates $5-15
-        # around strike, so >= $1/s directional velocity confirms momentum.
-        velocity = self._btc_velocity()
-        required_vel = max(
-            MOM_MIN_VELOCITY,
-            (vol_bar / max(secs, 1.0)) * MOM_ENTRY_VOL_MULT,
-        )
-
         # Consensus across all BTC sources
         if spot > strike + cfg.min_btc_gap:
-            # YES entry: BTC above strike AND rising with momentum
-            if velocity >= required_vel and self.btc.all_on_side(strike, yes_side=True):
+            # YES entry: BTC above strike
+            if self.btc.all_on_side(strike, yes_side=True):
                 return "yes"
         elif spot < strike - cfg.min_btc_gap:
-            # NO entry: BTC below strike AND falling with momentum
-            if velocity <= -required_vel and self.btc.all_on_side(strike, yes_side=False):
+            # NO entry: BTC below strike
+            if self.btc.all_on_side(strike, yes_side=False):
                 return "no"
         return None
 
