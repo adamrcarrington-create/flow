@@ -42,9 +42,9 @@ MOM_ENTRY_VOL_MULT = 2.0    # 2x vol bar for entry velocity
 MOM_EXIT_SECS = 10.0        # IOC exit window at end of cycle
 MOM_BTC_HISTORY = 20        # Keep last N BTC spot samples for momentum calc
 MOM_REVERSAL_MULT = 1.0     # Exit reversal at 1x vol bar
-# KXBTC15M oscillates $5-15 around strike. Velocity must beat noise:
-# a $10 move in 3 seconds = 3.3/s is real momentum, not chop.
-MOM_MIN_VELOCITY = 2.0      # USD/sec minimum BTC velocity for entry
+# KXBTC15M oscillates $5-15 around strike every 5-10s. Velocity must
+# beat chop: $5 in 5s = 1.0/s is real momentum, not noise.
+MOM_MIN_VELOCITY = 1.0      # USD/sec minimum BTC velocity for entry
 
 
 class MomentumBot:
