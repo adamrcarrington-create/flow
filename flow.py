@@ -1935,16 +1935,22 @@ class Clip:
             return
 
         if qty >= 0.005 and spot is not None:
-            with_gap = (spot - strike) if inv > 0 else (strike - spot)
             avg = self.avg_yes.get(ticker)
             fav = None
             if avg is not None:
                 fav = avg if inv > 0 else _complement(avg)
             cheap = fav is not None and fav <= cfg.rotate_cheap
             vol_bar = self.btc.required_gap(secs)
-            through = with_gap <= -max(
-                cfg.min_btc_gap, vol_bar if vol_bar is not None else cfg.min_btc_gap
-            )
+            need = max(cfg.min_btc_gap, vol_bar if vol_bar is not None else cfg.min_btc_gap)
+            # Require consensus across all BTC sources, not a single median
+            # cross — a brief wick through the strike must not trigger an
+            # expensive rotation only for BTC to snap back and chop the clip.
+            if inv > 0:
+                through = self.btc.all_on_side(strike, yes_side=True)
+                through = through and (spot - strike) >= need
+            else:
+                through = self.btc.all_on_side(strike, yes_side=False)
+                through = through and (strike - spot) >= need
             if through and not cheap:
                 if mark is not None:
                     what = "YES" if inv > 0 else "NO"
