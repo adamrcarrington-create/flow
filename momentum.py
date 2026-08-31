@@ -207,8 +207,8 @@ class MomentumBot:
             return
 
         take_px = take_yes if side == "yes" else _complement(take_yes)
-        if take_px <= 1.0 or take_px >= 99.0:
-            return
+        if take_px <= 0.5 or take_px >= 99.5:
+            return  # Reject extreme prices (within 0.5 of 0 or 100)
 
         size = self._size_for(take_px, exchange_index)
         if size < 1:
