@@ -122,7 +122,7 @@ class Config:
     # Max notional per clip as a fraction of shard cash. 10 lots on ~$10
     # was ~30% of the stack per dump. Do not ask for a top-up: size down
     # until cash can eat a full 10-lot (about $50 at 70¢ × 0.2).
-    clip_risk_frac: float = 0.2
+    clip_risk_frac: float = 0.5
     dump_cooldown_s: float = 0.08
     max_open_markets: int = 1
     max_daily_loss: float = 500.0
