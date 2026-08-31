@@ -32,6 +32,11 @@ import websockets
 from cryptography.hazmat.primitives import hashes, serialization
 from cryptography.hazmat.primitives.asymmetric import padding
 
+try:
+    from momentum import MomentumBot
+except Exception:
+    MomentumBot = None  # type: ignore[assignment]
+
 
 # ============================================================
 # CONFIG
@@ -125,7 +130,11 @@ class Config:
     # Stop for the day once realized PnL is down this fraction of the cash
     # the day started with (absolute max_daily_loss still caps it above).
     # 0.4 of a $12 shard died on one 10-lot fade rotate (~$4.80).
-    daily_loss_frac: float = 0.75
+    daily_loss_frac: float = 0.70
+    # Aggressive momentum mode: pure IOC entry, no maker waits, no
+    # defense rotation. Enter on 2x vol bar BTC momentum, ride to
+    # expiry, exit on reversal or last 10s. Overrides entry/exit logic.
+    momentum_mode: bool = True
 
     series_ticker: str = "KXBTC15M"
     cycle_min_secs: float = 5.0
@@ -2490,6 +2499,8 @@ class Engine:
         self._last_shard_sweep: float = 0.0
         self.running = False
         self._shutting_down = False
+        # Momentum mode: pure IOC momentum bot replaces Clip's tick
+        self.momentum: object = None
         self.cycle_lock = asyncio.Lock()
         self._locked_ticker: Optional[str] = None
         self._tasks: list = []
@@ -2528,6 +2539,11 @@ class Engine:
         await self.client.load_limits()
         await self.client.load_endpoint_costs()
         await self._load_series_fees()
+
+        # Initialize momentum bot if enabled
+        if cfg.momentum_mode and MomentumBot is not None:
+            self.momentum = MomentumBot(self)
+            log.info("Momentum mode: ON (pure IOC / no defense rotation)")
         if not await self._sync_positions():
             log.error("Could not reconcile live positions. Stopping before any orders.")
             await self.client.close()
@@ -2815,10 +2831,16 @@ class Engine:
                     book = await self._book_for(ticker)
                     if book is None:
                         continue
-                    await self.clip.tick(
-                        ticker, book, info["strike"], spot, secs,
-                        info.get("exchange_index"),
-                    )
+                    if self.momentum is not None:
+                        await self.momentum.tick(
+                            ticker, book, info["strike"], spot, secs,
+                            info.get("exchange_index"),
+                        )
+                    else:
+                        await self.clip.tick(
+                            ticker, book, info["strike"], spot, secs,
+                            info.get("exchange_index"),
+                        )
             try:
                 await asyncio.wait_for(self.wake.wait(), timeout=cfg.fire_idle_s)
             except asyncio.TimeoutError:
